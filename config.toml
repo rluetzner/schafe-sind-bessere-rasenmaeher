@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = 'https://rluetzner.github.io/schafe-sind-bessere-rasenmaeher'
+languageCode = 'de-de'
+title = 'Schafe sind bessere Rasenmäher'
 theme = "ananke"
