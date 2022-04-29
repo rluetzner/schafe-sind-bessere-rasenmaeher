@@ -1,4 +1,4 @@
-baseURL = 'https://rluetzner.github.io/schafe-sind-bessere-rasenmaeher'
+baseURL = 'https://schafe-sind-bessere-rasenmaeher.de'
 languageCode = 'de-de'
 title = 'Schafe sind bessere Rasenmäher'
 theme = "ananke"
