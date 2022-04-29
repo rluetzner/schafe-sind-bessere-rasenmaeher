@@ -5,7 +5,7 @@ draft: false
 ---
 
 In mir gibt es einen See,  
-tiefer als ich es selbst weiß.
+tiefer als ich selbst es weiß.
 
 In ihm schwimmen Emotionen  
 manche laut und manche leis.
@@ -22,7 +22,7 @@ selten rütteln sie daran.
 Weil minutenlang ich schweige,  
 schaust du mich mit Sorge an.
 
-Ist das ein Splitter, gar ein Sprung?  
+Ist's ein Splitter, gar ein Sprung?  
 Etwas Hoffnung, ein Stück Licht?
 
 Und ich zerre.  
