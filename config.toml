@@ -2,3 +2,18 @@ baseURL = 'https://rluetzner.github.io/schafe-sind-bessere-rasenmaeher'
 languageCode = 'de-de'
 title = 'Schafe sind bessere Rasenmäher'
 theme = "ananke"
+# sectionPagesMenu = "main"
+
+[menu]
+[[menu.main]]
+  identifier = 'Geschichten'
+  name = 'Geschichten'
+  title = 'Geschichten'
+  url = '/posts/'
+  weight = -110
+[[menu.main]]
+  identifier = 'Über'
+  name = 'Über'
+  title = 'Über'
+  url = '/about/'
+  weight = 110
