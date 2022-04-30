@@ -2,6 +2,7 @@
 title: "Die Maske"
 date: 2022-04-29T20:50:56Z
 draft: false
+tags: ["gedicht", "nachdenklich", "traurig"]
 ---
 
 In mir gibt es einen See,  
