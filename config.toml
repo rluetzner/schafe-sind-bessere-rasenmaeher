@@ -32,7 +32,7 @@ enableRobotsTXT = true
 [params]
   text_color = ""
   author = "Robert Lützner"
-  favicon = ""
+  favicon = "images/favicon.ico"
   site_logo = "images/schaf.jpg"
   description = "...ist einfach so!"
   # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
