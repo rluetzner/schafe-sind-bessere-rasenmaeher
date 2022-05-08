@@ -6,7 +6,7 @@ featured_image: "/images/schaf.jpg"
 
 ## Worum geht es?
 
-Ich versuche täglich mindestens 30 Minuten kreativ zu schreiben. Die Ergebnisse findet ihr hier. Viel Spaß.
+Ich versuche mich unregelmäßig im kreativen Schreiben. Die Ergebnisse findet ihr hier. Viel Spaß.
 
 Die Geschichten die ihr hier findet sind auf Grund der oben genannten Herangehensweise selten überarbeitet und weisen einige Ecken und Kanten auf.
 
