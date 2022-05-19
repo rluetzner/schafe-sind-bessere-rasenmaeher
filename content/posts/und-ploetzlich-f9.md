@@ -98,8 +98,10 @@ In einer Ecke stand ein Mann vor einem großen Regal mit verschiedenen Flaschen.
 
 Der Mann nahm eine Flasche aus dem Regal, warf sie geschickt in die Luft und fing sie wieder auf. Aus der Hosentasche fischte er einen Dosieraufsatz und schraubte ihn auf die Flasche.
 
-**`F9` `F9` `F9` `F9` `F9`**
+**`F9` `F9` `F9` `F9` `F9`**[^f9]
 
 Ein Lächeln umspielte die Lippen des Hitman. Seine Hand huschte unter das Jackett und suchte nach der Klaviersaite.
 
 *Zeit den Beruf zu wechseln.*
+
+[^f9]: **`F9`** ist häufig die Taste in Computerspielen um schnell einen zuvor gespeicherten Spielstand zu laden.
