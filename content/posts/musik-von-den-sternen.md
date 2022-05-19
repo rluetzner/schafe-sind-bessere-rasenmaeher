@@ -7,7 +7,7 @@ tags: ["kurz", "horror"]
 
 > **Achtung!!!**
 >
-> In der Geschichte wird eine brutaler und blutiger Akt beschrieben.
+> In der Geschichte wird ein brutaler und blutiger Akt beschrieben.
 
 Seit der Entdeckung des Signals von CTA-102 hatte Dr. Brunner nicht mehr geschlafen. Das war jetzt 16 Tage her. Obwohl die Aufzeichnung automatisch durch ein Computerprogramm erfolgte und er nicht aktiv gebraucht wurde, hatte er es nicht geschafft zur Ruhe zu kommen.
 
