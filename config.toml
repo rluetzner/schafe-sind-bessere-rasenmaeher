@@ -23,6 +23,12 @@ enableRobotsTXT = true
   title = 'Über'
   url = '/about/'
   weight = 110
+[[menu.main]]
+  identifier = 'Impressum'
+  name = 'Impressum'
+  title = 'Impressum'
+  url = '/imprint/'
+  weight = 150
 
 [sitemap]
   changefreq = "monthly"
