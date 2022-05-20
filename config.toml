@@ -45,6 +45,7 @@ enableRobotsTXT = true
   background_color_class = "bg-black"
   recent_posts_number = 3
   show_reading_time = true
+  date_format = "2. January 2006"
 
 [[params.ananke_socials]]
 name = "github"
