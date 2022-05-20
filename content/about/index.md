@@ -1,7 +1,7 @@
 ---
 title: "Über die Seite"
 draft: false
-featured_image: "/images/schaf.jpg"
+omit_header_text: true
 ---
 
 ## Worum geht es?

@@ -1,7 +1,7 @@
 ---
 title: "Impressum"
 draft: false
-featured_image: "/images/schaf.jpg"
+omit_header_text: true
 ---
 
 Robert Lützner, Freiburg
