@@ -10,7 +10,7 @@ Ich versuche mich unregelmäßig im kreativen Schreiben. Die Ergebnisse findet i
 
 Die Geschichten die ihr hier findet sind auf Grund der oben genannten Herangehensweise selten überarbeitet und weisen einige Ecken und Kanten auf.
 
-Wer mich kennt, weiß, dass ich jedwede Form von Hassrede verdamme. Dennoch kann ich nicht garantieren, dass ich mit dem hier geschriebenen nicht der ein oder anderen Person auf die Füße trete. Ich werde versuchen problematische Inhalte entsprechend zu kennzeichnen. Falls ich eurer Meinung nach etwas übersehen habe, könnt ihr mir das gerne melden oder direkt einen entsprechenden Pull Request bei GitHub einreichen.
+Wer mich kennt, weiß, dass ich jedwede Form von Hassrede verdamme. Dennoch kann ich nicht garantieren, dass ich mit dem hier geschriebenen nicht der ein oder anderen Person auf die Füße trete. Ich werde versuchen problematische Inhalte entsprechend zu kennzeichnen. Falls ich eurer Meinung nach etwas übersehen habe, könnt ihr mir das gerne melden oder direkt einen entsprechenden [Pull Request bei GitHub](https://github.com/rluetzner/schafe-sind-bessere-rasenmaeher) einreichen.
 
 ## Lizenz
 
