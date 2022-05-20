@@ -2,6 +2,7 @@
 title: "Impressum"
 draft: false
 omit_header_text: true
+private: true
 ---
 
 Robert Lützner, Freiburg
