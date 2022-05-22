@@ -9,7 +9,7 @@ tags: ["kurz", "wettbewerb"]
 >
 > https://lemmy.rollenspiel.monster/post/127
 
-Mit pochendem Herzen presste Pino die Schachtel an seine Brust. Durch die Blätter des Busches vor ihm beobachtete er eine Gruppe Menschenkinder die, wie jeden Donnerstag, auf einer kleinen Lichtung vor ihm spielten.
+Mit pochendem Herzen presste Pino [^Pino] die Schachtel an seine Brust. Durch die Blätter des Busches vor ihm beobachtete er eine Gruppe Menschenkinder die, wie jeden Donnerstag, auf einer kleinen Lichtung vor ihm spielten.
 
 Diesmal hatten sie auf einem flachen Stein ein buntes Spielfeld ausgebreitet, auf dem sie kleine, detailverliebte Figuren herumschoben und regelmäßig kicherten.
 
@@ -44,3 +44,7 @@ Das Mädchen legte den Kopf schief und betrachtete Pino. Sie schien mit der Antw
 Pino nickte. Sofort sprang das Mädchen auf und fegte die kleinen Figuren vom Spielfeld. Sie kramte in einer Schachtel auf dem Boden bis sie einen kleinen Gnom fand und stellte ihn aufs Spielfeld.
 
 "Du wachst in einem finsteren Keller auf. Dein Kopf tut weh und du hast keine Ahnung wie du dorthin gelangt bist. Was möchtest du tun?"
+
+[^Pino]: Ein Bild von Pino:  
+[![Ein Bild von Pino, einem süßen, kleinen grünen Drachen und das Maskottchen von RollenspielMonster.](https://rollenspiel.monster/logos/887x739.png)](https://rollenspiel.monster)  
+Quelle: CC BY-NC-SA 4.0 RollenspielMonster
