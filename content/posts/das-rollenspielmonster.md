@@ -21,7 +21,7 @@ Pino schloß seine Augen und atmete ein paar Mal tief durch. Dann nahm er seinen
 
 Die zwei Mädchen aus der Gruppe sprangen kreischend auf und flohen blindlings in die Büsche, während einer der verbleibenden Jungen mit vor Angst weit aufgerissenen Augen vom Baumstumpf kippte auf dem er saß. Hastig schob er sich ein paar Meter über den Boden, bevor er sich aufrappelte und im Wald verschwand. Der andere Junge hatte ein Holzschwert gezückt, das er zitternd in den Händen hielt. Als er jedoch bemerkte, dass er mit Pino alleine war, besann er sich eines Besseren und rannte den anderen hinterher.
 
-Noch bevor er seinen Satz beenden konnte, fand sich Pino plötzlich ganz alleine auf der Lichtung wieder. Große Krokodilstränen rannen ihm die Wangen hinunter. Er setzte sich auf den flachen Stein neben das vergessene Spielbrett und begann haltlos zu schluchzen.
+Noch bevor er seinen Satz beenden konnte, fand sich Pino plötzlich ganz alleine auf der Lichtung wieder. Große Tränen rannen ihm die Wangen hinunter. Er setzte sich auf den flachen Stein neben das vergessene Spielbrett und begann haltlos zu schluchzen.
 
 "Bist du das", fragte eine Stimme ganz in seiner Nähe.
 
