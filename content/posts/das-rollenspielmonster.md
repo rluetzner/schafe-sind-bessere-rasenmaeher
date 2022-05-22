@@ -2,7 +2,7 @@
 title: "Das Rollenspielmonster"
 date: 2022-05-22T15:36:34+02:00
 draft: false
-tags: ["kurz", "wettbewerb"]
+tags: ["kurz", "wettbewerb", "fantasy", "kinder"]
 ---
 
 > Mit dieser Geschichte nehme ich am ersten Schreibwettbewerb von [RollenspielMonster](https://rollenspiel.monster/) teil.
