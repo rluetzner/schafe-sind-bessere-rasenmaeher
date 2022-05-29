@@ -3,6 +3,7 @@ title: "Das Rollenspielmonster"
 date: 2022-05-22T15:36:34+02:00
 draft: false
 tags: ["kurz", "wettbewerb", "fantasy", "kinder"]
+license: cc-by-nc-sa
 ---
 
 > Mit dieser Geschichte nehme ich am ersten Schreibwettbewerb von [RollenspielMonster](https://rollenspiel.monster/) teil.

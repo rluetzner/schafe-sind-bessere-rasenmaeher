@@ -3,6 +3,7 @@ title: "Das Loch in der Decke"
 date: 2016-07-25T18:48:54+02:00
 draft: false
 tags: ["lang", "horror"]
+license: cc-by-nc-sa
 ---
 
 # 1

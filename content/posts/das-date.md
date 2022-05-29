@@ -3,6 +3,7 @@ title: "Das Date"
 date: 2016-07-20T18:48:54+02:00
 draft: false
 tags: ["kurz", "locker"]
+license: cc-by-nc-sa
 ---
 
 Der Bart war asymmetrisch. Das war was ihn störte. Aber jetzt war es doch ein wenig zu knapp um noch mit der Schere zu hantieren. Und ganz nebenbei war er ja sonst auch nicht ordentlich rasiert. Aber irgendwie ließ in der schiefe Bart nicht zufrieden. Er zupfte noch ein paar Mal daran herum, als ob er damit das Gleichgewicht wiederherstellen könnte. Unzufrieden betrachtete er sich im Spiegel.

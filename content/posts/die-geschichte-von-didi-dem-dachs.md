@@ -3,6 +3,7 @@ title: "Die Geschichte von Didi dem Dachs"
 date: 2022-05-01T20:21:14Z
 draft: false
 tags: ["kurz", "kinder"]
+license: cc-by-nc-sa
 ---
 
 > Das ist eine Gute Nacht Geschichte, die über mehrere Monate Erzählen iterativ entstanden ist.

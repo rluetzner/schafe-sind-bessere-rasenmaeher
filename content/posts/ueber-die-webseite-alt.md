@@ -3,6 +3,7 @@ title: "Über die Webseite (alt)"
 date: 2016-07-18T19:12:05+02:00
 draft: false
 tags: ["kurz", "selbst"]
+license: cc-by-nc-sa
 ---
 
 > Die folgende Beschreibung konnte man auf meiner alten Blog Adresse  

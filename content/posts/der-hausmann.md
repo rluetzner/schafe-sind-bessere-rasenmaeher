@@ -3,6 +3,7 @@ title: "Der Hausmann"
 date: 2022-05-08T16:07:35+02:00
 draft: false
 tags: ["kurz", "locker", "humorvoll"]
+license: cc-by-nc-sa
 ---
 
 Erschöpft aber zufrieden ließ er den Staubwedel sinken. Mit seiner freien

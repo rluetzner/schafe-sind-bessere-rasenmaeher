@@ -4,6 +4,7 @@ date: 2016-12-01T19:03:08+02:00
 draft: false
 tags: ["kurz", "traurig", "nachdenklich"]
 featured_image: images/blume.jpg
+license: cc-by-nc-sa
 ---
 
 Meine Gedanken kreisen immer nur um das Eine. Wie konnte das nur geschehen? So jung. So unschuldig. Naja unschuldig vielleicht nicht unbedingt. Ich lache und erschrecke als ich das kalte, laute Wiederhallen der Wand höre. Der Raum ist dunkel, obwohl die Sonne durch die Fenster scheint. Mir fröstelt. Der Gang zur Heizung ist allerdings unnötig. Diese ist bereits an. Ein kurzer Griff an die Heizstäbe und eine verbrannte Handfläche später lehrt mich der Zahlenskala am Ventil zu vertrauen.

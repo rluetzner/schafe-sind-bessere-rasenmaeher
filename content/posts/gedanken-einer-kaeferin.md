@@ -3,6 +3,7 @@ title: "Gedanken einer Käferin"
 date: 2016-08-01T18:58:50+02:00
 draft: false
 tags: ["kurz", "locker", "humorvoll"]
+license: cc-by-nc-sa
 ---
 
 Eine Käferin sitzt auf einem Baum neben einem Käfer. Es ist ein faszinierender Käfer, aber für ihren Geschmack sind sie beide doch ein wenig zu unterschiedlich.

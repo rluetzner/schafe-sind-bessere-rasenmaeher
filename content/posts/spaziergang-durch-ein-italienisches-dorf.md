@@ -3,6 +3,7 @@ title: "Spaziergang Durch Ein Italienisches Dorf"
 date: 2016-08-03T18:59:47+02:00
 draft: false
 tags: ["kurz", "locker"]
+license: cc-by-nc-sa
 ---
 
 „Buongiorno“, sagt das junge hübsche Mädchen im blauen Kleid. Ich, ein bisschen über die Freundlichkeit verwundert und mehr als nur ein wenig geschmeichelt, nuschele etwas zurück was wohl eher nach Bomjom klingt.

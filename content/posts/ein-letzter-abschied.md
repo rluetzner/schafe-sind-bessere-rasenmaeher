@@ -3,6 +3,7 @@ title: "Ein letzter Abschied"
 date: 2022-05-18T16:35:01Z
 draft: false
 tags: ["kurz", "melancholisch", "fantasy"]
+license: cc-by-nc-sa
 ---
 
 Majestätisch erhob sich der Rochen in die Lüfte. Obwohl Maja das Schauspiel schon unzählige Male gesehen hatte, stockte ihr immer noch der Atem.

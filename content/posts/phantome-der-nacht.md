@@ -3,6 +3,7 @@ title: "Phantome der Nacht"
 date: 2022-04-27T08:47:11+01:00
 draft: false
 tags: ["kurz", "melancholisch"]
+license: cc-by-nc-sa
 ---
 
 Sie spürte eine Leere neben sich die sie nicht erklären konnte. Das große Bett war leer wie immer, aber zum ersten Mal fühlte es sich an als würde etwas fehlen.

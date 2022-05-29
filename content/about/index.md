@@ -14,7 +14,9 @@ Wer mich kennt, weiß, dass ich jedwede Form von Hassrede verdamme. Dennoch kann
 
 ## Lizenz
 
-Alle hier verfügbaren Geschichten, Gedichte, Bilder, etc. sind unter [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.de) lizensiert.
+Falls nicht andersweitig angegeben, sind alle hier verfügbaren Geschichten, Gedichte, Bilder, etc. unter
+[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.de) lizensiert.
+
 
 Inhalte die nicht von mir stammen sind entsprechend gekennzeichnet.
 

@@ -3,6 +3,7 @@ title: "Erinnerungen auf einer Zugfahrt"
 date: 2016-07-18T18:48:54+02:00
 draft: false
 tags: ["kurz", "nachdenklich"]
+license: cc-by-nc-sa
 ---
 
 Der Wind heulte laut über die offene Strecke. Das Rattern des Zuges auf den Gleisen vermischte sich mit dem Donnergrollen des Gewitters über ihm. Der beinahe waagerecht fallende Regen prasselte durch das gekippte Fenster auf sein Gesicht, doch er machte keine Anstalten etwas dagegen zu unternehmen. Im Gegenteil: er fand die kalten Wasserspritzer sehr angenehm.
