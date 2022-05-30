@@ -3,6 +3,7 @@ title: "Phoebe"
 date: 2022-04-16T23:21:07+02:00
 draft: false
 tags: ["lang", "sci-fi", "wettbewerb"]
+license: cc-by-nc-nd
 ---
 
 > Mit dieser Geschichte habe ich am Schreibwettbewerb "Magic-Future-Money" teilgenommen.
