@@ -2,7 +2,8 @@
 title: "Reflexionen"
 date: 2016-12-01T19:03:08+02:00
 draft: false
-tags: ["kurz", "traurig", "nachdenklich"]
+categories: ["kürzestgeschichte"]
+tags: ["traurig", "nachdenklich"]
 featured_image: images/blume.jpg
 license: cc-by-nc-sa
 ---

@@ -2,7 +2,8 @@
 title: "Erinnerungen auf einer Zugfahrt"
 date: 2016-07-18T18:48:54+02:00
 draft: false
-tags: ["kurz", "nachdenklich"]
+categories: ["kürzestgeschichte"]
+tags: ["nachdenklich"]
 license: cc-by-nc-sa
 ---
 

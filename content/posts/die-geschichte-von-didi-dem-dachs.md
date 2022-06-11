@@ -2,7 +2,8 @@
 title: "Die Geschichte von Didi dem Dachs"
 date: 2022-05-01T20:21:14Z
 draft: false
-tags: ["kurz", "kinder"]
+categories: ["kürzestgeschichte"]
+tags: ["kinder"]
 license: cc-by-nc-sa
 ---
 

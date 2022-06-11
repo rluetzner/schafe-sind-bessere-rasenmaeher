@@ -2,7 +2,8 @@
 title: "Über die Webseite (alt)"
 date: 2016-07-18T19:12:05+02:00
 draft: false
-tags: ["kurz", "selbst"]
+categories: ["micro-fiction"]
+tags: ["selbst"]
 license: cc-by-nc-sa
 ---
 

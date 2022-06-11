@@ -2,7 +2,8 @@
 title: "Ein letzter Abschied"
 date: 2022-05-18T16:35:01Z
 draft: false
-tags: ["kurz", "melancholisch", "fantasy"]
+categories: ["kürzestgeschichte"]
+tags: ["melancholisch", "fantasy"]
 license: cc-by-nc-sa
 ---
 

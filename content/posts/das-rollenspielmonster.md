@@ -2,7 +2,8 @@
 title: "Das Rollenspielmonster"
 date: 2022-05-22T15:36:34+02:00
 draft: false
-tags: ["kurz", "wettbewerb", "fantasy", "kinder"]
+categories: ["kürzestgeschichte"]
+tags: ["wettbewerb", "fantasy", "kinder"]
 license: cc-by-nc-sa
 ---
 

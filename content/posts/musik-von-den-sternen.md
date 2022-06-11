@@ -2,7 +2,8 @@
 title: "Musik von den Sternen"
 date: 2022-04-30T13:26:59Z
 draft: false
-tags: ["kurz", "horror"]
+categories: ["kürzestgeschichte"]
+tags: ["horror"]
 license: cc-by-nc-sa
 ---
 

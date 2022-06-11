@@ -2,7 +2,8 @@
 title: "Und plötzlich F9"
 date: 2022-05-19T15:45:13Z
 draft: false
-tags: ["kurz", "brutal", "4te wand"]
+categories: ["kürzestgeschichte"]
+tags: ["brutal", "4te wand"]
 license: cc-by-nc-sa
 ---
 

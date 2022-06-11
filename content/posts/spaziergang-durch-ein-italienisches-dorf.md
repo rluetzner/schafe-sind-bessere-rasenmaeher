@@ -2,7 +2,8 @@
 title: "Spaziergang Durch Ein Italienisches Dorf"
 date: 2016-08-03T18:59:47+02:00
 draft: false
-tags: ["kurz", "locker"]
+categories: ["kürzestgeschichte"]
+tags: ["locker"]
 license: cc-by-nc-sa
 ---
 

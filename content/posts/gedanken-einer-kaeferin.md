@@ -2,7 +2,8 @@
 title: "Gedanken einer Käferin"
 date: 2016-08-01T18:58:50+02:00
 draft: false
-tags: ["kurz", "locker", "humorvoll"]
+categories: ["kürzestgeschichte"]
+tags: ["locker", "humorvoll"]
 license: cc-by-nc-sa
 ---
 

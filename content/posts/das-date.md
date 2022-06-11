@@ -2,7 +2,8 @@
 title: "Das Date"
 date: 2016-07-20T18:48:54+02:00
 draft: false
-tags: ["kurz", "locker"]
+categories: ["kürzestgeschichte"]
+tags: ["locker"]
 license: cc-by-nc-sa
 ---
 

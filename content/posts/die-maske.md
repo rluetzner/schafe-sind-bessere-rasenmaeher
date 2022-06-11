@@ -2,7 +2,8 @@
 title: "Die Maske"
 date: 2022-04-29T20:50:56Z
 draft: false
-tags: ["gedicht", "nachdenklich", "traurig"]
+categories: ["gedicht"]
+tags: ["nachdenklich", "traurig"]
 license: cc-by-nc-sa
 ---
 

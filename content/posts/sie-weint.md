@@ -2,7 +2,8 @@
 title: "Sie weint"
 date: 2016-07-19T18:48:54+02:00
 draft: false
-tags: ["kurz", "traurig"]
+categories: ["micro-fiction"]
+tags: ["traurig"]
 license: cc-by-nc-sa
 ---
 

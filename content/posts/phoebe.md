@@ -2,7 +2,8 @@
 title: "Phoebe"
 date: 2022-04-16T23:21:07+02:00
 draft: false
-tags: ["lang", "sci-fi", "wettbewerb"]
+categories: ["kurzgeschichte"]
+tags: ["sci-fi", "wettbewerb"]
 license: cc-by-nc-nd
 ---
 

@@ -2,7 +2,8 @@
 title: "Mein Mitbewohner aus der Hölle"
 date: 2022-05-28T20:31:54Z
 draft: false
-tags: ["kurz", "horror", "humorvoll"]
+categories: ["kürzestgeschichte"]
+tags: ["horror", "humorvoll"]
 license: cc-by-nc-sa
 ---
 

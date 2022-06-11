@@ -2,7 +2,8 @@
 title: "Der Abgrund"
 date: 2016-09-07T19:02:09+02:00
 draft: false
-tags: ["kurz", "nachdenklich"]
+categories: ["kürzestgeschichte"]
+tags: ["nachdenklich"]
 license: cc-by-nc-sa
 ---
 

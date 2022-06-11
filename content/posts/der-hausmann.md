@@ -2,7 +2,8 @@
 title: "Der Hausmann"
 date: 2022-05-08T16:07:35+02:00
 draft: false
-tags: ["kurz", "locker", "humorvoll"]
+categories: ["kürzestgeschichte"]
+tags: ["locker", "humorvoll"]
 license: cc-by-nc-sa
 ---
 

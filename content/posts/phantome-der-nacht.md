@@ -2,7 +2,8 @@
 title: "Phantome der Nacht"
 date: 2022-04-27T08:47:11+01:00
 draft: false
-tags: ["kurz", "melancholisch"]
+categories: ["kürzestgeschichte"]
+tags: ["melancholisch"]
 license: cc-by-nc-sa
 ---
 

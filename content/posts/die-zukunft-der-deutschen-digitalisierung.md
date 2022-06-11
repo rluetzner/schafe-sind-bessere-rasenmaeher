@@ -2,7 +2,8 @@
 title: "Die Zukunft der deutschen Digitalisierung"
 date: 2022-04-28T20:47:57Z
 draft: false
-tags: ["kurz", "locker", "humorvoll"]
+categories: ["kürzestgeschichte"]
+tags: ["locker", "humorvoll"]
 license: cc-by-nc-sa
 ---
 
