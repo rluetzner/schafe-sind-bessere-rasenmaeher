@@ -7,9 +7,6 @@ tags: ["brutal", "4te wand"]
 license: cc-by-nc-sa
 ---
 
-> **Achtung!!!**  
-> Die Geschichte handelt von einem Profikiller und Menschenleben haben in seiner Welt keinen hohen Stellenwert.
-
 Für einen kurzen Moment straffte er die Klaviersaite zwischen seinen Händen als er die Wache herannahen sah. Obwohl seine Glatze bereits vollständig im Gebüsch verschwunden war, kauerte er noch etwas tiefer. Er hielt den Atem an.
 
 *Einundzwanzig.*  

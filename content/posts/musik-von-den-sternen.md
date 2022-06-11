@@ -7,10 +7,6 @@ tags: ["horror"]
 license: cc-by-nc-sa
 ---
 
-> **Achtung!!!**
->
-> In der Geschichte wird ein brutaler und blutiger Akt beschrieben.
-
 Seit der Entdeckung des Signals von CTA-102 hatte Dr. Brunner nicht mehr geschlafen. Das war jetzt 16 Tage her. Obwohl die Aufzeichnung automatisch durch ein Computerprogramm erfolgte und er nicht aktiv gebraucht wurde, hatte er es nicht geschafft zur Ruhe zu kommen.
 
 Ruhelos klickte er auf den *Abspielen* Knopf. Aus den Lautsprechern ertönte ein klagendes Jaulen, gepaart mit einem sägendem Kreischen und untermalt von einem dumpfen Grollen, dass Brunners Brust beben ließ und ihm die Lungen zuschnürte. Es war die schönste Melodie, die er je gehört hatte. Das Lied, wie Brunner es nannte, beschwor vor seinem geistigen Auge Bilder einer fremden und unwirklichen Landschaft hervor. Am Rande seiner Wahrnehmung zuckten Schatten. Eine Art Gliedmaßen, auch wenn er sich die Bewegungen anatomisch nicht erklären konnte. Die Bilder die er sah waren jedoch von einem starken Rauschen überlagert, als ob jemand den Fernsehempfang stören würde.

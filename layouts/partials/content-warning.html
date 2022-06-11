@@ -1,0 +1,17 @@
+{{ if in .Params.tags "horror" }}
+<blockquote>
+	<p>
+	<strong>Achtung!!!</strong>
+	<br>
+	Das folgende ist eine Horrorgeschichte und kann unter Umständen verstörende Elemente beinhalten.
+	</p>
+</blockquote>
+{{ else if in .Params.tags "brutal" }}
+<blockquote>
+	<p>
+	<strong>Achtung!!!</strong>
+	<br>
+	Die folgende Geschichte enthält Gewalt und Brutalität.
+	</p>
+</blockquote>
+{{ end }}
