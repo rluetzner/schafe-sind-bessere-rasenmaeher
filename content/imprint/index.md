@@ -1,5 +1,5 @@
 ---
-title: "Impressum"
+title: "Imprint"
 draft: false
 omit_header_text: true
 private: true
