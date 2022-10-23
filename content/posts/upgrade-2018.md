@@ -6,7 +6,7 @@ categories: ["movies"]
 tags: ["sci-fi","action"]
 ---
 
-Someone wrote in to mention this movie in one of the latest WOFF dispatch episodes I've heard. Whoever wrote in compared it to Venom and that is actually spot on. This movie is also brilliant.
+Someone wrote in to mention this movie in one of the latest WOFF dispatch episodes I've heard. Whoever wrote in compared it to _Venom_ and that is actually spot on. This movie is also brilliant.
 
 A violent mugging leaves a mechanic as a quadroplegic and without a wife. He decides to go through with an experimental operation that will implant STEM, an AI that can control his body into his spine. Together they take revenge on the muggers.
 
