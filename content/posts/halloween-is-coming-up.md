@@ -1,7 +1,7 @@
 ---
 title: "Halloween is coming up"
-date: 2022-10-17T20:38:38+02:00
-draft: true
+date: 2022-10-23T22:31:38+02:00
+draft: false
 categories: ["movies"]
 tags:
   - franchise-watch
@@ -15,11 +15,11 @@ tags:
 
 Every few years when halloween approaches I get the urge to (re)watch a whole bunch of scary movies. I'm not really picky so anything goes: slashers, elevated horror, ghost flicks, cosmic horror, ...
 
-This year started out with a weird urge to rewatch all the Friday the 13th movies. I looked up the entire franchise and couldn't remember if I had seen the latest reboot. I'm honestly still not quite sure, but I thiiiiink I've seen it once before, so this marks my second go through all of these horrible movies. Sorry for spoiling my opinion beforehand. 😜
+This year started out with a weird urge to rewatch all the _Friday the 13th_ movies. I looked up the entire franchise and couldn't remember if I had seen the latest reboot. I'm honestly still not quite sure, but I thiiiiink I've seen it once before, so this marks my second go through all of these horrible movies. Sorry for spoiling my opinion beforehand. 😜
 
-I started out pretty early (in the middle of September), so I had more than enough time to finish all these movies. Actually I had time enough to watch the entire Scream franchise as well, where I definately hadn't seen anything beyond the third installment. I then moved on to Halloween, of which it turned out I had seen more movies than I'd expected, but discovered the amazing 2018 reboot.
+I started out pretty early (in the middle of September), so I had more than enough time to finish all these movies. Actually I had time enough to watch the entire _Scream_ franchise as well, where I definately hadn't seen anything beyond the third installment. I then moved on to _Halloween_, of which it turned out I had seen more movies than I'd expected, but discovered the amazing 2018 reboot.
 
-I also started watching Ash vs. Evil Dead again, but have taken a short break after the first season (for now).
+I also started watching _Ash vs. Evil Dead_ again, but have taken a short break after the first season (for now).
 
 Here are short opinions on all of these movies and the tv show. There'll probably be **spoilers** for a few movie bits, so be prepared. I'll try to hide spoilers for newer movies behind a drop down.
 
@@ -53,9 +53,9 @@ I also noticed that they kept any damage to the mask from the prior movie. This 
 
 ### Friday the 13th -- A New Beginning (1985)
 
-This movie has lots of promise, but is undercut by a very forced and misguided attempt at humor. The general idea is good and terrifying and is pretty similar to what Halloween 4 tried to set up with it's ending.
+This movie has lots of promise, but is undercut by a very forced and misguided attempt at humor. The general idea is good and terrifying and is pretty similar to what _Halloween 4_ tried to set up with it's ending.
 
-As with Halloween, the twist ending is completely undercut and retconned in the next movie.
+As with _Halloween_, the twist ending is completely undercut and retconned in the next movie.
 
 ### Friday the 13th Part VI: Jason Lives (1986)
 
@@ -187,9 +187,9 @@ Probably the best thing is that the movie has a really dark cliffhanger ending t
 
 ### Halloween 4: The Return of Michael Myers (1988)
 
-He's back (baby)! I think this might have been the first movie I saw when I was a kid. Either this or Halloween 6, both of which ran on TV almost every year around Halloween, instead of the first two better movies.
+He's back (baby)! I think this might have been the first movie I saw when I was a kid. Either this or _Halloween 6_, both of which ran on TV almost every year around Halloween, instead of the first two better movies.
 
-This one's actually pretty okay. Michael is hunting his niece, the daughter of Laurie Strode who died. I initially thought that they retconned the plot for _Halloween - H20_, which led me to a deep-dive article explaining which Halloween movies belong to which timeline.
+This one's actually pretty okay. Michael is hunting his niece, the daughter of Laurie Strode who died. I initially thought that they retconned the plot for _Halloween - H20_, which led me to a deep-dive article explaining which _Halloween_ movies belong to which timeline.
 
 Aaaaaanyway...Michael and Dr. Loomis were heavily burned after the events in _Halloween II_, but both survived. Donald Pleasence gets to show off his burned face, which they get rid of immediately in the next movie. They're saying he had reconstructive surgery, but what they're actually saying is: "we didn't have enough budget for the mask."
 
@@ -201,4 +201,78 @@ No idea what _new_ kind of _revenge_ he's taking here. Michael Myers is once aga
 
 She has stopped talking, which is not really important for the plot. For whatever reason she also has a psychic connection to Michael and witnesses all his kills.
 
-Donald Pleasence is really unpleasant here. His obsession with Michael leads to a few scenes where he's pressuring Jamie into using her psychic connection and makes him seem like an absolut monster.
+Donald Pleasence is really unpleasant here. His obsession with Michael leads to a few scenes where he's pressuring Jamie into using her psychic connection and makes him seem like an absolut monster. Dr. Loomis was always a bit unhinged and obsessive, but he's mostly able to empathize. I have no idea why they thought this might be a good idea.
+
+### Halloween: The Curse of Michael Myers
+
+Ah yes. The **cult** movie. Not as in _it has a cult following_, but rather _suddenly there is a cult semi-controlling Michael Myers_.
+
+This ends the Jamie trilogy with her having a baby and fleeing a cult facility. Michael tracks her down and kills her, but is later recovered by Tommy (the little kid that Laurie babysits in the first movie -- excellent callback and well acted by Paul Rudd). Michael is out to kill his family and the cult is in favor, because of reasons I've already forgotten again.
+
+This is one of the movies I saw as a kid, most likely the first _Halloween_ I ever saw on TV. This however marks the first time I've watched _the Producer's cut_. I only realized this later when I was astonished that I could not remember the confusing ending where Dr. Loomis is elected as the next gatekeeper of the cult. This is such a weird cliffhanger, especially seeing as this was Donald Pleasence's last movie and we never get to see what the ending entails.
+
+### Halloween H20: 20 years later
+
+This marks the first return of Jamie Lee Curtis to the _Halloween_ franchise. Despite there not being any major surprises and any deviation from the generic _Halloween_ formula, I still like this movie. For whatever reason (and I don't think I'm alone here) I like following up on Laurie's story the most interesting part of the _Halloween_ franchise.
+
+I still remembered the shocking ending, where Laurie chops off Michaels head with a fire axe and was looking forward to how the next movie might retcon this. Looking forward to the next movie was a mistake however...
+
+### Halloween: Resurrection
+
+Oh boy. I mean...they figured out a very easy way out of the _chopped-off-head_ pickle, but the retcon makes the ending of the previous movie so much less satisfying. I was hoping for something a bit cooler, however I have no idea what that might have been. Maybe just shutdown the franchise.
+
+Anyway, Laurie is back, but she's killed of in the first few minutes. The rest of the movie follows a bunch of college students that participate in a live-streamed haunted house experience in the Myers' house. The pre-scripted events start to mingle with the actual Michael Myers killing off people. They try to do something interesting with the headcam perspective, but it doesn't end up working. Instead it leads to a hillarious scene where the secret chat-boyfriend of our main protagonist streams the event at a party and gradually manages to drag all party people off to watch the stream. Of course the nerd manages to safe the day, but the brightly lit and happy party atmosphere clashes strongly with the gritty haunted house vibe of the rest of the movie.
+
+It also has Busta Rhymes in it, who's character is entirely unlikeable, although he thinks he's the coolest. Also...not a great actor.
+
+### Halloween (2007) + Halloween II (2009)
+
+The Rob Zombie remake / reimagining of Michael Myers' origin story. I really want to like this movie and it's sequel, but I find them very hard to watch.
+
+On the plus side, they are well shot and directed and take the story in an interesting alternative direction. Both movies try to get the audience to empathize with Michael, but they sacrifice the heroes instead. The main protagonists Laurie and Dr. Loomis are portrayed very differently here. I tried to approach this with an open mind, but I like Laurie and Loomis as characters too much to be able to handle this. Especially Loomis is shown as being an arrogant and egotistical ass. He gets a redemption moment at the very end of the second movie, but it's forced and doesn't really save him from my condemnation.
+
+What also makes these movies hard to watch is the insane amount of swearing. It feels like almost all sentences have an F-bomb in them, but instead of making this more _hardcore_ and gritty, I find that it takes me out of the story every few minutes. The violence is also turned up with some horrifying kills that are just a bit too realistic to be enjoyable. Maybe the movies are meant to make me queasy, but wheras I can see myself watching _Schindler's list_ again, I'll probably steer away from these two movies in the future.
+
+### Halloween (2018)
+
+And now this. The movie I've been waiting for, because I hadn't seen it yet and in fact hadn't even realized that a new _Halloween_ movie had been released. Even more: there was this, a sequel and a third movie set to be released just a few days later.
+
+This movie is straight up amazing. I'd have to watch it again to try and figure out exactly why it hooked me more than the Rob Zombie remake. From what I remember, I think at least part of it is Jamie Lee Curtis' performance as a paranoid, reclusive grandmother who cares deeply for her family, but can't be a part of them. The movie (trilogy) also takes care to keep the legacy of Michael Myers alive by never actually showing him without his mask. Any time he's in the scene he has this dominating presence.
+
+Other than the Rob Zombie movies the kills here didn't really make me queasy. The movie is still pushing the pedal on violence and gore, but the kills are imaginative and had me chuckling more often than not.
+
+The ending is also spot on and having seen the next two movies, I would much rather have preferred this being the final page in _Halloween_'s book.
+
+### Halloween Kills (2021)
+
+This is a weird movie. It starts out strong and I rather like how they managed to get out of the ending dillema of the last movie. After that the pacing is just off. Laurie is stuck in a hospital for most of the movie and doesn't actually get to do anything. There's a pack of vigilantes out to get Michael Myers, which we've already seen before in _Halloween 4_.
+
+It has some interesting ideas, the strongest of them being a repeat of what happened the last time vigilantes were out to take out Michael Myers. Michael shows up again late in the movie and
+
+{{< spoiler >}}
+escapes from an absolutely impossible situation. There are multiple guns pointed at him and an angry mob is trying to lynch him, but he just takes out a whole army of vigilantes. And then comes back to kill Laurie's daughter, although the movie tries to establish that he's not actually after Laurie at all.
+{{</ spoiler >}}
+
+### Halloween Ends (2022)
+
+I was really looking forward to this as an epic final battle between Laurie Strode and Michael Myers. Sadly, this is not that movie. Instead it's like two mismatched movies sown together by someone who's not particulary good at sewing.
+
+Laurie's granddaughter falls in helpless plot-love with a guy that has a dark past, but is actually a good guy. Until 
+
+{{< spoiler >}}
+he meets Michael Myers and looks into his eyes. Without really having established any dark tendencies (I don't count the accident from the beginning), the Big-Bang-Theory-Lennard-lookalike starts taking out people that bug him or his girlfriend/Laurie's granddaughter.
+
+Most of the movie revolves around this plot. The only cool setpiece of this is a double-kill setup where Michael comes in as a surprise killer to help out BBT-Lennard (I forgot the actual name of the character).
+
+Laurie does get to finish of Michael, but the ending is neither epic nor climactic in any way. It's a sad and pathetic ending for someone who has endured countless retconned deaths over the years. The ending of the movie left me feeling a bit like a deflated balloon. While I can easily see myself rewatching _Halloween (2018)_ and might in fact make it my default sequel to _Halloween (1978)_, I'll probably never watch _Kills_ and _Ends_ again.
+{{</ spoiler >}}
+
+## Ash vs. Evil Dead
+
+### Season 01
+
+I saw this when it first came out and followed it regularly on Amazon. One of the few series (apart from _The Expanse_) where I was waiting every week for a new episode to come out, just like in the olden days.
+
+I can't say quite how this happened, but I did forget how crazy fun this is. Almost all of the episodes are a breezy 23-25 minutes and are filled with hillariously incorrect, but still funny jokes and oneliners. This is the perfect continuation of _Evil Dead II_ and _Army of Darkness_.
+
+I just fear that the humour falls down sometime in the next two seasons and that's where my bad memories from this series come from. However, the first season is absolutely amazing. Pablo and Kelly are great sidekicks and characters in their own right. Having honduran Pablo next to the racially, politically and generally insensitive character of Ash leads to some of the best jokes. I can appriciate them that much more, because I know that Ash is not really racist, but just an absolute dumbass that gets lucky most of the time. "Shoot first, think never!" 🤣
