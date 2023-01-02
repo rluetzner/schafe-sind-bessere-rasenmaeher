@@ -6,7 +6,7 @@ categories: ["games"]
 tags: ["horror", "adventure"]
 ---
 
-**Nightmare Frames** by *Postmodern Adventures* might be one the best Lovecraftian horror games I've played so far.
+**Nightmare Frames** by *Postmodern Adventures* might be one of the best Lovecraftian horror games I've played so far.
 
 It starts out as a pretty slow burn, but that's alright for the horror genre. Once it's got it's hooks into you, it becomes really hard to put down. With two kids and a daytime job, I only get a few hours to myself every evening. If not for that, I can guarantee that I would have finished this in a single sitting.
 
