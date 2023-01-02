@@ -1,4 +1,4 @@
-{{ if in .Params.tags "horror" }}
+{{ if and (in .Page.RelPermalink "stories") (in .Params.tags "horror") }}
 <blockquote>
 	<p>
 	<strong>Achtung!!!</strong>
