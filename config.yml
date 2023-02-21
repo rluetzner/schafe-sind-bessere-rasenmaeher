@@ -1,0 +1,31 @@
+theme: 'readable'
+title: 'Schafe sind bessere Rasenmäher'
+params:
+  author: 'Robert Lützner'
+  mastodon: 'https://rollenspiel.social/@mforester'
+  subtitle: '...ist einfach so!'
+  # The following items are not (yet) supported, but I'd like to use them!
+  favicon: "images/favicon.ico"
+  site_logo: "images/schaf-rund.png"
+  mainSections:
+    - posts
+    - tech
+    - stories
+
+menu:
+  main:
+    - name: 'Stuff'
+      url: '/posts/'
+      weight: 1
+    - name: 'Tech'
+      url: '/tech/'
+      weight: 2
+    - name: 'Geschichten'
+      url: '/stories/'
+      weight: 3
+    - name: 'About'
+      url: '/about/'
+      weight: 4
+    - name: 'Imprint'
+      url: '/imprint/'
+      weight: 5
