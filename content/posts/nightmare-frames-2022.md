@@ -4,6 +4,7 @@ date: 2023-01-02T19:42:28+01:00
 draft: false
 categories: ["games"]
 tags: ["horror", "adventure"]
+license: cc-by-nc-sa
 ---
 
 **Nightmare Frames** by *Postmodern Adventures* might be one of the best Lovecraftian horror games I've played so far.

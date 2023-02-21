@@ -4,6 +4,7 @@ date: 2022-10-21T21:02:12+02:00
 draft: false
 categories: ["movies"]
 tags: ["horror-movies"]
+license: cc-by-nc-sa
 ---
 
 This is a de(s)cent movie! 😁

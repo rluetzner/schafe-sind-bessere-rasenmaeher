@@ -6,6 +6,7 @@ categories:
   - games
 tags:
   - adventure
+license: cc-by-nc-sa
 ---
 
 Here's something I didn't think we'd ever get: a new Monkey Island from Ron Gilbert. And as expected it fits in perfectly with the first two Monkey Island games.

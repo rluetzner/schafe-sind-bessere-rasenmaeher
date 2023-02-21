@@ -4,6 +4,7 @@ date: 2023-01-25T20:48:04+01:00
 draft: false
 categories: ["tv-shows"]
 tags: ["horror","weird"]
+license: cc-by-nc-sa
 ---
 
 > Warning!!!

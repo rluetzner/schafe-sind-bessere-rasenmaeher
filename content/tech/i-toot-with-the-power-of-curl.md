@@ -4,6 +4,7 @@ date: 2022-11-01T20:56:12+01:00
 draft: false
 categories: ["tech"]
 tags: ["mastodon","curl"]
+license: cc-by-nc-sa
 ---
 
 I spent the last two days trying to make a simple script that toots a static message on Mastodon. The idea came to me, because my instance admin is determined to welcome all new users to the instance. He's been using the same message for a while, but when asked he admited that he puts them together manually every time.

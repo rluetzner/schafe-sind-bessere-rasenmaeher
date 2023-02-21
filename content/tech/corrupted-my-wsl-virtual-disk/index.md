@@ -4,6 +4,7 @@ date: 2023-01-12T21:07:46+01:00
 draft: false
 categories: ["tech"]
 tags: ["WSL","Linux","Windows"]
+license: cc-by-nc-sa
 ---
 
 I love WSL. I mainly develop for Linux systems at work, but for company reasons am forced to use a Windows machine. WSL is the next best thing and I've been spending almost my entire time the last few years inside this sweet Linux environment.

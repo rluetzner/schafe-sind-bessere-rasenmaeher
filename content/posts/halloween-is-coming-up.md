@@ -9,6 +9,7 @@ tags:
   - scream
   - halloween
   - ash-vs-evil-dead
+license: cc-by-nc-sa
 ---
 
 ## Preamble

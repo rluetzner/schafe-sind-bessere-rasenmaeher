@@ -4,6 +4,7 @@ date: 2022-10-22T22:31:15+02:00
 draft: false
 categories: ["movies"]
 tags: ["sci-fi","action"]
+license: cc-by-nc-sa
 ---
 
 Someone wrote in to mention this movie in one of the latest WOFF dispatch episodes I've heard. Whoever wrote in compared it to _Venom_ and that is actually spot on. This movie is also brilliant.

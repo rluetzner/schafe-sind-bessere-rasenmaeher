@@ -4,6 +4,7 @@ date: 2022-10-16T21:30:08+02:00
 draft: false
 categories: ["tech"]
 tags: ["docker"]
+license: cc-by-nc-sa
 ---
 
 > **TL;DR**

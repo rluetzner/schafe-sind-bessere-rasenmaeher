@@ -7,6 +7,7 @@ categories:
 tags:
   - meditation
   - indie
+license: cc-by-nc-sa
 ---
 
 This is an amazing game with lots of heart. And very relaxing. As the title suggest you're unpacking moving boxes and placing the unpacked items in absolutely beautiful pixel-art rooms.

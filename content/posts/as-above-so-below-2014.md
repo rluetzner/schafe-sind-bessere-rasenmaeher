@@ -4,6 +4,7 @@ date: 2022-10-21T21:09:38+02:00
 draft: false
 categories: ["movies"]
 tags: ["horror-movies"]
+license: cc-by-nc-sa
 ---
 
 Just because I watched [_The Descent_](../the-descent-2005) yesterday and it reminded me of this movie, I had to watch it again. I could remember almost nothing about this and was quite surprised at the _Tomb Raider_-esque treasure hunting setup.
