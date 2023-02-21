@@ -39,5 +39,6 @@ Articles that do not specify a license should be treated exactly like that. Feel
 ## Powered by
 
 - [Hugo](https://gohugo.io)
-- [Ananki Theme for Hugo](https://github.com/theNewDynamic/gohugo-theme-ananke)
+- [Readable Theme for Hugo](https://github.com/cjtheham/hugo-theme-readable)
+- [Readable CSS by Freedom To Write](https://readable-css.freedomtowrite.org/)
 - [GitHub Pages](https://github.com)
