@@ -3,6 +3,7 @@ title: 'Schafe sind bessere Rasenmäher'
 params:
   author: 'Robert Lützner'
   mastodon: 'https://rollenspiel.social/@mforester'
+  codeberg: 'https://codeberg.org/rluetzner'
   subtitle: '...ist einfach so!'
   # The following items are not (yet) supported, but I'd like to use them!
   favicon: "/images/favicon.ico"
