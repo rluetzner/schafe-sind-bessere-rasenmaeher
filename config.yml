@@ -5,8 +5,8 @@ params:
   mastodon: 'https://rollenspiel.social/@mforester'
   subtitle: '...ist einfach so!'
   # The following items are not (yet) supported, but I'd like to use them!
-  favicon: "images/favicon.ico"
-  site_logo: "images/schaf-rund.png"
+  favicon: "/images/favicon.ico"
+  site_logo: "/images/schaf-rund.png"
   mainSections:
     - posts
     - tech
