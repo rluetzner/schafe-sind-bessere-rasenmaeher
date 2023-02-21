@@ -1,0 +1,6 @@
+{{ define "main" }}
+{{ partial "metadata.html" . }}
+<!-- <br><br> -->
+{{- partial "content-warning.html" . -}}
+{{ .Content }}
+{{ end }}
