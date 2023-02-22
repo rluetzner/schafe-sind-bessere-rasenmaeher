@@ -1,17 +1,17 @@
 {{ if and (in .Page.RelPermalink "stories") (in .Params.tags "horror") }}
-<blockquote>
+<aside>
 	<p>
 	<strong>Achtung!!!</strong>
 	<br>
 	Das folgende ist eine Horrorgeschichte und kann unter Umständen verstörende Elemente beinhalten.
 	</p>
-</blockquote>
+</aside>
 {{ else if in .Params.tags "brutal" }}
-<blockquote>
+<aside>
 	<p>
 	<strong>Achtung!!!</strong>
 	<br>
 	Die folgende Geschichte enthält Gewalt und Brutalität.
 	</p>
-</blockquote>
+</aside>
 {{ end }}

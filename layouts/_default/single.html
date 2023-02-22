@@ -2,8 +2,8 @@
 <h1>{{ .Title }}</h1>
 {{ partial "metadata.html" . }}
 <!-- <br><br> -->
-{{- partial "content-warning.html" . -}}
 <article>
+{{- partial "content-warning.html" . -}}
 {{ .Content }}
 </article>
 {{- partial "content-license.html" . -}}
