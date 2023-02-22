@@ -4,23 +4,29 @@ draft: false
 omit_header_text: true
 ---
 
-## What's this about?
+## 👋 Hi there! I'm Robert!
 
-Initially this was a blog where I posted my short stories (which are currently exclusively written in german). After a while however I noticed the urge to write about different stuff.
+So, what's this about?
+
+Initially this was a blog where I posted my short stories (which are currently exclusively written in German). After a while however I noticed the urge to write about different stuff.
+
+### Who are you again?
 
 I work as a software developer and as such encounter some bizarre situations at work. I also self-host a bunch of services for my family.
 
 I play games, read books and watch movies and oftentimes don't have anyone to talk to about these. Most of the movies I watch is stuff that my wife wouldn't touch with a ten foot pole.
 
+### Aha! What about the blog?
+
 My first idea was to start a new blog: Sheepy on stuff (keeping with the sheep theme). However, I already own two domains and have no intent of buying another one, even though they can be pretty cheap.
 
 I came across the idea of a [digital garden](https://maggieappleton.com/garden-history) which is kinda what I want to do, but also not really. I'm not quite sure if I want this blog to be an ever changing wiki.
 
-However, getting rid of the restriction to only publish german short stories unlocked something for me. Due to my work and almost all media I consume being in english, I often tend to formulate my thoughts in english as well. I often found myself thinking out blog posts in english, which I previously couldn't possibly publish on this blog.
+However, getting rid of the restriction to only publish German short stories unlocked something for me. Due to my work and almost all media I consume being in English, I often tend to formulate my thoughts in English as well. I often found myself thinking out blog posts in English, which I previously couldn't possibly publish on this blog.
 
 **NO MORE!!!**
 
-This is now a bilingual blog. Not in the sense that everything will be translated, but rather that any page will be either in german or english. Or both.
+This is now a bilingual blog. Not in the sense that everything will be translated, but rather that any page will be either in German or English. Or both.
 
 I'm not collecting any metrics, so I don't know if I do have some loyal followers. I'll probably piss some of them off. That's okay.
 
@@ -34,11 +40,11 @@ I'm also happy to discuss any of the articles posted here. The best way is proba
 
 Apart from a few exceptions my short stories, poems and photos are licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.de).
 
-Articles that do not specify a license should be treated exactly like that. Feel free to link to them and quote a few sections. If you're unsure, contact me first.
+Articles that do not specify a license should be treated as licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.de). Feel free to link to them and quote a few sections. If you're unsure, contact me first.
 
 ## Powered by
 
 - [Hugo](https://gohugo.io)
 - [Readable Theme for Hugo](https://github.com/cjtheham/hugo-theme-readable)
-- [Readable CSS by Freedom To Write](https://readable-css.freedomtowrite.org/)
+- [readable.css by Freedom To Write](https://readable-css.freedomtowrite.org/)
 - [GitHub Pages](https://github.com)

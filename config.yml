@@ -25,9 +25,6 @@ menu:
     - name: 'Geschichten'
       url: '/stories/'
       weight: 3
-    - name: 'About'
-      url: '/about/'
-      weight: 4
     - name: 'Imprint'
       url: '/imprint/'
-      weight: 5
+      weight: 4
