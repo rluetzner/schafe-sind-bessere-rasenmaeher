@@ -7,11 +7,13 @@ tags: []
 license: cc-by-nc-sa
 ---
 
-> In dieser Geschichte spiele ich eine Runde [After the Accident](https://gulix.itch.io/after-the-accident).  
-> Dabei handelt es sich um ein Pen & Paper Rollenspiel, das gedacht ist um alleine gespielt zu werden.
-> 
-> Das Regelwerk setzt auf ein Kartendeck mit 52 Karten. Behelfsweise habe ich dafür auf [random.org](https://www.random.org/playing-cards/) gesetzt.  
-> Welche Karten ich dabei gezogen habe, sind an der entsprechenden Stelle aufgeführt.
+{{< aside >}}
+In dieser Geschichte spiele ich eine Runde [After the Accident](https://gulix.itch.io/after-the-accident).
+Dabei handelt es sich um ein Pen & Paper Rollenspiel, das gedacht ist um alleine gespielt zu werden.
+
+Das Regelwerk setzt auf ein Kartendeck mit 52 Karten. Behelfsweise habe ich dafür auf [random.org](https://www.random.org/playing-cards/) gesetzt.  
+Welche Karten ich dabei gezogen habe, sind an der entsprechenden Stelle aufgeführt.
+{{</ aside >}}
 
 ## Was bisher geschah
 

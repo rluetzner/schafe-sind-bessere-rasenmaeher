@@ -7,15 +7,17 @@ tags: ["horror","weird"]
 license: cc-by-nc-sa
 ---
 
-> Warning!!!
->
-> This contains heavy spoilers for the tv show.
->
-> Actually, I would say that knowing almost **anything** about this is a spoiler. So if you think you might like this, give it a go and come back once you've watched it! 🙂
+{{< aside >}}
+Warning!!!
+
+This contains heavy spoilers for the tv show.
+
+Actually, I would say that knowing almost **anything** about this is a spoiler. So if you think you might like this, give it a go and come back once you've watched it! 🙂
+{{</ aside >}}
 
 These six one-hour episodes are a wild ride that is worth experiencing. And they are worth being experienced without any prior knowledge.
 
-The main focus of this show is Lucy Chambers, a single mom with a kid that is seemingly plagued by schizophrenia and is suffering from some type of autism. Isaac, the little boy, is unable to experience or express any feelings, although he is well able to differentiate them in others. 
+The main focus of this show is Lucy Chambers, a single mom with a kid that is seemingly plagued by schizophrenia and is suffering from some type of autism. Isaac, the little boy, is unable to experience or express any feelings, although he is well able to differentiate them in others.
 
 Lucy regularly wakes up at 3.33 in the night and finds Isaac creepily staring at things only he can see. The mom starts having visions herself, where she sees people get murdered.
 

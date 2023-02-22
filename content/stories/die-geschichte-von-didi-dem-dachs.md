@@ -7,11 +7,13 @@ tags: ["kinder"]
 license: cc-by-nc-sa
 ---
 
-> Das ist eine Gute Nacht Geschichte, die über mehrere Monate Erzählen iterativ entstanden ist.
-> 
-> Mein Sohn wünscht sie sich weiterhin regelmäßig zum Einschlafen.
->
-> An den *entsprechenden Stellen* mache ich Geräusche wie sie auch Didi machen würde. Ganz zum Schluss gibt es noch die Möglichkeit die Geschichte endlos zu strecken. Die Tiere spielen das *Wolkenspiel* und sehen viele bekannte Dinge aus dem Alltag des Kindes in den Wolken.
+{{< aside >}}
+Das ist eine Gute Nacht Geschichte, die über mehrere Monate Erzählen iterativ entstanden ist.
+
+Mein Sohn wünscht sie sich weiterhin regelmäßig zum Einschlafen.
+
+An den *entsprechenden Stellen* mache ich Geräusche wie sie auch Didi machen würde. Ganz zum Schluss gibt es noch die Möglichkeit die Geschichte endlos zu strecken. Die Tiere spielen das *Wolkenspiel* und sehen viele bekannte Dinge aus dem Alltag des Kindes in den Wolken.
+{{</ aside >}}
 
 Früh am Morgen wacht Didi, der kleine Dachs, in seiner Höhle auf. Die ersten Sonnenstrahlen kitzeln ihn an seiner Nase. Er streckt den Kopf aus seiner Höhle und *schnuppert*.
 
@@ -78,5 +80,7 @@ Gute Nacht Hoppel.
 Gute Nacht Rita.  
 Gute Nacht Max.
 
-> Gute Nacht Lieblingskuscheltier.  
-> Gute Nacht Kind.
+{{< aside >}}
+Gute Nacht Lieblingskuscheltier.  
+Gute Nacht Kind.
+{{</ aside >}}

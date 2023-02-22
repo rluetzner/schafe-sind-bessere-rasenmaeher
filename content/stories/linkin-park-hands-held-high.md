@@ -7,27 +7,31 @@ tags: ["selbst"]
 license: cc-by-nc-sa
 ---
 
-> Das Folgende ist anders als sonst.
->
-> Es ist keine Geschichte. Es ist ein Aufschrieb meiner Gedanken. Ich habe das Schreiben genutzt um meine
-> eigenen Gedanken zu sortieren.
->
-> Der Video-Link verweist auf https://yewtu.be, einer Invidious Instanz. Invidious ist ein
-> privatsphäre-freundliches alternatives Frontend zu YouTube, der Inhalt ist also der selbe, aber eure
-> Daten werden nicht an YouTube weitergeleitet.
+{{< aside >}}
+Das Folgende ist anders als sonst.
+
+Es ist keine Geschichte. Es ist ein Aufschrieb meiner Gedanken. Ich habe das Schreiben genutzt um meine
+eigenen Gedanken zu sortieren.
+
+Der Video-Link verweist auf https://yewtu.be, einer Invidious Instanz. Invidious ist ein
+privatsphäre-freundliches alternatives Frontend zu YouTube, der Inhalt ist also der selbe, aber eure
+Daten werden nicht an YouTube weitergeleitet.
+{{</ aside >}}
 
 {{< yewtube id=f4SOlKSeztc title="Hands Held High von Linkin Park" >}}
 
-> Jump when they tell us that they wanna see jumping  
-> Fuck that, I wanna see some fists pumping  
-> 
-> [...]
->
-> Like this war's really just a different brand of war  
-> Like it doesn′t cater to rich and abandon poor
->
-> © by Linkin Park
-> Writer(s): Mike Shinoda, Chester Charles Bennington, Joseph Hahn, Robert G. Bourdon, Brad Delson, Dave Farrell
+{{< aside >}}
+Jump when they tell us that they wanna see jumping  
+Fuck that, I wanna see some fists pumping  
+
+[...]
+
+Like this war's really just a different brand of war  
+Like it doesn′t cater to rich and abandon poor
+
+© by Linkin Park
+Writer(s): Mike Shinoda, Chester Charles Bennington, Joseph Hahn, Robert G. Bourdon, Brad Delson, Dave Farrell
+{{</ aside >}}
 
 Wow. Vielleicht bin ich heute emotionaler als sonst. Vielleicht liegt es daran, dass ich *Minutes to Midnight*
 schon seit etlichen Jahren nicht mehr gehört habe und es mich an eine bessere Zeit erinnert. Teilweise.
@@ -38,10 +42,12 @@ was ich studieren will. Damals gibt es noch heftige Kritik am Irak Krieg von Geo
 sich auch das Lied. Ein paar Stellen referenzieren das explizit, aber -- **FUUUUUCK** -- es passt auch so gut zur
 heutigen Zeit.
 
-> My brother had a book he would hold with pride  
-> A little red cover with a broken spine on the back  
-> He hand-wrote a quote inside  
-> "When the rich wage war, it′s the poor who die"
+{{< aside >}}
+My brother had a book he would hold with pride  
+A little red cover with a broken spine on the back  
+He hand-wrote a quote inside  
+"When the rich wage war, it′s the poor who die"
+{{</ aside >}}
 
 Ich fühle mich hilflos. Wütend. Ich will weinen. Etwas zerschlagen.
 

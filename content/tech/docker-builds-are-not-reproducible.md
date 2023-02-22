@@ -7,11 +7,13 @@ tags: ["docker"]
 license: cc-by-nc-sa
 ---
 
-> **TL;DR**
-> 
-> If your Docker build depends on installing packages from an external package repository, you might be in for a surprise.
->
-> A possible solution is to copy cached layers from an existing machine to a new one.
+{{< aside >}}
+**TL;DR**
+
+If your Docker build depends on installing packages from an external package repository, you might be in for a surprise.
+
+A possible solution is to copy cached layers from an existing machine to a new one.
+{{</ aside >}}
 
 I'll probably out myself as an absolute idiot, but Docker builds are far from reproducible.
 

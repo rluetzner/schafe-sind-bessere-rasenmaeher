@@ -17,9 +17,11 @@ As the new year started, I took some time to clean up my system. I noticed that 
 
 I should have been satisfied with this huge freed up space, but I kept digging. I found out that my WSL instance takes up about 40GB, which I found weird, because there aren't really that many big files in there. I dug through my notes and found the following commands.
 
-> **WARNING!!!**
->
-> **Although I've run these commands successfully in the past, this is part of what sent me on my way of destruction.**
+{{< aside >}}
+**WARNING!!!**
+
+**Although I've run these commands successfully in the past, this is part of what sent me on my way of destruction.**
+{{</ aside >}}
 
 ```powershell
 # As Admin

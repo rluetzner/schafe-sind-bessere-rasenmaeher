@@ -7,9 +7,11 @@ tags: ["wettbewerb", "fantasy", "kinder"]
 license: cc-by-nc-sa
 ---
 
-> Mit dieser Geschichte nehme ich am ersten Schreibwettbewerb von [RollenspielMonster](https://rollenspiel.monster/) teil.
->
-> https://lemmy.rollenspiel.monster/post/127
+{{< aside >}}
+Mit dieser Geschichte nehme ich am ersten Schreibwettbewerb von [RollenspielMonster](https://rollenspiel.monster/) teil.
+
+https://lemmy.rollenspiel.monster/post/127
+{{</ aside >}}
 
 Mit pochendem Herzen presste Pino [^Pino] die Schachtel an seine Brust. Durch die Blätter des Busches vor ihm beobachtete er eine Gruppe Menschenkinder die, wie jeden Donnerstag, auf einer kleinen Lichtung vor ihm spielten.
 

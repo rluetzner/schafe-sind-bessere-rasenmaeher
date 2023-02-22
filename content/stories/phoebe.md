@@ -7,12 +7,14 @@ tags: ["sci-fi", "wettbewerb"]
 license: cc-by-nc-nd
 ---
 
-> Mit dieser Geschichte habe ich am Schreibwettbewerb "Magic-Future-Money" teilgenommen.
->
-> Ich kam leider nicht unter die Top 30, die schriftlich veröffentlicht wurden, habe aber
-> zugestimmt, dass meine Geschichte online auf der Seite veröffentlicht werden darf.
->
-> Sie ist dort auch unter https://magicfuturemoney.de/geschichten/phoebe/ zu finden.
+{{< aside >}}
+Mit dieser Geschichte habe ich am Schreibwettbewerb "Magic-Future-Money" teilgenommen.
+
+Ich kam leider nicht unter die Top 30, die schriftlich veröffentlicht wurden, habe aber
+zugestimmt, dass meine Geschichte online auf der Seite veröffentlicht werden darf.
+
+Sie ist dort auch unter https://magicfuturemoney.de/geschichten/phoebe/ zu finden.
+{{</ aside >}}
 
 # 1
 

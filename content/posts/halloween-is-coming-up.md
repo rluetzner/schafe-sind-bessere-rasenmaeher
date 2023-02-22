@@ -72,9 +72,11 @@ And this is where the blow it again. On the one hand it has a telekinetic protag
 
 Here are some quotes from other viewers on [Rotten Tomatoes}(https://www.rottentomatoes.com/m/friday_the_13th_part_8_jason_takes_manhattan):
 
-> After over one hour, Jason finally arrives in Manhattan but doesn't take shit, only making this another dull and miserably awful sequel that feels like an eternity, with uninspired deaths, a bizarrely schizophrenic protagonist and a ludicrous plot even worse than the last.
+{{< aside >}}
+After over one hour, Jason finally arrives in Manhattan but doesn't take shit, only making this another dull and miserably awful sequel that feels like an eternity, with uninspired deaths, a bizarrely schizophrenic protagonist and a ludicrous plot even worse than the last.
 
-> This movie's 'title' should've been: Jason Takes Manhattan, But It Takes Him Over An Hour To Get There By Ship. Talk about a misleading title. And when Jason does indeed get to Manhattan, he still focuses on the same group of people he's been trying to kill on the ship, it's just that they manage to row a lifeboat there.
+This movie's 'title' should've been: Jason Takes Manhattan, But It Takes Him Over An Hour To Get There By Ship. Talk about a misleading title. And when Jason does indeed get to Manhattan, he still focuses on the same group of people he's been trying to kill on the ship, it's just that they manage to row a lifeboat there.
+{{</ aside >}}
 
 This movie is really incoherent and weird. Manhattan does not factor into the plot **at all** and could just as well have been any place else.
 
@@ -136,7 +138,9 @@ I was surprised to find Patrick Warburton in this movie. I recently finished wat
 
 This is also where I was very annoyed by the IMDB trivia stuff. First of all, there's way to many entries and much of them are redundant. Far worse is that (albeit hidden in the Spoiler section) they give away a vital detail of the latest Scream movie. The entry goes something like this:
 
-> Initially the Killer was meant to be XXXXXXXX, an idea that was scrapped for this movie. However in Scream (2022) the Killer really is XXXXXXXX.
+{{< aside >}}
+Initially the Killer was meant to be XXXXXXXX, an idea that was scrapped for this movie. However in Scream (2022) the Killer really is XXXXXXXX.
+{{</ aside >}}
 
 I was sooooo annoyed at this, as the movie just came out and I was really looking forward to watching it. I don't see why I should expect Spoilers for a sequel in the trivia section of one of it's predecessors. Much less a movie that was released 22 years earlier.
 
@@ -258,7 +262,7 @@ escapes from an absolutely impossible situation. There are multiple guns pointed
 
 I was really looking forward to this as an epic final battle between Laurie Strode and Michael Myers. Sadly, this is not that movie. Instead it's like two mismatched movies sown together by someone who's not particulary good at sewing.
 
-Laurie's granddaughter falls in helpless plot-love with a guy that has a dark past, but is actually a good guy. Until 
+Laurie's granddaughter falls in helpless plot-love with a guy that has a dark past, but is actually a good guy. Until
 
 {{< spoiler >}}
 he meets Michael Myers and looks into his eyes. Without really having established any dark tendencies (I don't count the accident from the beginning), the Big-Bang-Theory-Lennard-lookalike starts taking out people that bug him or his girlfriend/Laurie's granddaughter.

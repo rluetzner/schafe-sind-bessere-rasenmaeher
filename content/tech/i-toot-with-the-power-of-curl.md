@@ -41,7 +41,7 @@ The next step in the process is to retrieve an access token from the server. See
 
 curl -X POST \
     -F "client_id=<CLIENT-ID>" \
-    -F "client_secret=<CLIENT-SECRET>" \ 
+    -F "client_secret=<CLIENT-SECRET>" \
     -F "scope=write" \
     -F "grant_type=password" \
     -F "username=<USERNAME>" \
@@ -61,7 +61,7 @@ The updated request therefore looked something like this:
 
 curl -X POST \
     -F "client_id=<CLIENT-ID>" \
-    -F "client_secret=<CLIENT-SECRET>" \ 
+    -F "client_secret=<CLIENT-SECRET>" \
     -F "scope=write" \
     -F "grant_type=client_credentials" \
     -F "redirect_uri=urn:ietf:wg:oauth:2.0:oob" \
@@ -76,9 +76,11 @@ This completed successfully and returned a JSON containing the desired access to
 
 The last step, now that we have the user-specific access token for our app, is to actually toot a message. The leancrew.com article I used as a tutorial resorted to using Python here, but I wanted to keep this as simple as possible.
 
-> I still ended up with Python in the script, because I figured it would be the safest way to parse a value from a JSON string.
->
-> `jq` is also an option, but the chance that `python` is already installed is basically 100% and at least in my experience `jq` has to be installed manually at some point.
+{{< aside >}}
+I still ended up with Python in the script, because I figured it would be the safest way to parse a value from a JSON string.
+
+`jq` is also an option, but the chance that `python` is already installed is basically 100% and at least in my experience `jq` has to be installed manually at some point.
+{{</ aside >}}
 
 This should work:
 
@@ -120,7 +122,9 @@ What bugged me was that the different errors from before told me that I had a va
 
 After just a few minutes I found this exact piece of information in the documentation of the POST request I used earlier.
 
-> **grant_type (REQUIRED)** -- _string_ -- Set equal to `authorization_code` if code is provided in order to gain user-level access. Otherwise, set equal to `client_credentials` to obtain app-level access only.
+{{< aside >}}
+**grant_type (REQUIRED)** -- _string_ -- Set equal to `authorization_code` if code is provided in order to gain user-level access. Otherwise, set equal to `client_credentials` to obtain app-level access only.
+{{</ aside >}}
 
 _User-level access_? Be still my heart!
 

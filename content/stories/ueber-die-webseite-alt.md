@@ -7,10 +7,12 @@ tags: ["selbst"]
 license: cc-by-nc-sa
 ---
 
-> Die folgende Beschreibung konnte man auf meiner alten Blog Adresse  
-> https://schafesindbessererasenmaeher.wordpress.com  
-> unter "Über diese Webseite" finden.  
-> Ich konnte mich nicht vollständig von dem Text trennen.
+{{< aside >}}
+Die folgende Beschreibung konnte man auf meiner alten Blog Adresse  
+https://schafesindbessererasenmaeher.wordpress.com  
+unter "Über diese Webseite" finden.  
+Ich konnte mich nicht vollständig von dem Text trennen.
+{{</ aside >}}
 
 Geboren im Juni, bei Sonnenschein zur Kaffeezeit. Danach Kindergarten, Schule, mit ständig wechselnden Freunden. Dann die erste Konstante: Musik, laut und kraftvoll. Freunde die sie mit einem teilen, auch wenn man plötzlich in eine weit entfernte Großstadt zieht. Das Studienfach kurz vor Beginn noch gewechselt und jetzt doch da, wo es einen schon immer hingezogen hat. Heute, immer noch laut, mit vielen alten und neuen Freunden, bei Sonnenschein zur Kaffeezeit.
 
