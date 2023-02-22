@@ -1,5 +1,7 @@
 theme: 'readable'
 title: 'Schafe sind bessere Rasenmäher'
+pluralizelisttitles: False
+
 params:
   author: 'Robert Lützner'
   mastodon: 'https://rollenspiel.social/@mforester'
