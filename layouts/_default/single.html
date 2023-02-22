@@ -3,6 +3,8 @@
 {{ partial "metadata.html" . }}
 <!-- <br><br> -->
 {{- partial "content-warning.html" . -}}
+<article>
 {{ .Content }}
+</article>
 {{- partial "content-license.html" . -}}
 {{ end }}
