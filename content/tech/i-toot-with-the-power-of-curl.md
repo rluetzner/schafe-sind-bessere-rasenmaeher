@@ -122,9 +122,7 @@ What bugged me was that the different errors from before told me that I had a va
 
 After just a few minutes I found this exact piece of information in the documentation of the POST request I used earlier.
 
-{{< aside >}}
-**grant_type (REQUIRED)** -- _string_ -- Set equal to `authorization_code` if code is provided in order to gain user-level access. Otherwise, set equal to `client_credentials` to obtain app-level access only.
-{{</ aside >}}
+> **grant_type (REQUIRED)** -- _string_ -- Set equal to `authorization_code` if code is provided in order to gain user-level access. Otherwise, set equal to `client_credentials` to obtain app-level access only.
 
 _User-level access_? Be still my heart!
 
