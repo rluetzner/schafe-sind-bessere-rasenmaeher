@@ -184,3 +184,11 @@ Finally, to paraphrase Einar Egilsson from his blog post about the Chord Image G
 > You are free to link to images directly on https://chordgenerator.luetzners.de from your own website, although I make no guarantees about uptime, performance or anything like that.
 
 Enjoy! 🙂
+
+----
+
+## Edit - 2023-04-14
+
+I've reached out to [Gissur Thorhallsson](https://github.com/gzur), who's taken ownership of Einar's account, and they kindly added a note to the original repo, pointing to my fork. The [original repo](https://github.com/einaregilsson/ChordImageGenerator) on GitHub has been archived. Now it's official: I've have fully inherited this project.
+
+Gissur also promised to look into ownership of the domain https://chordgenerator.net, but with the added link on the original repo on GitHub I'm optimistic that people will find their way to https://chordgenerator.luetzners.de.
