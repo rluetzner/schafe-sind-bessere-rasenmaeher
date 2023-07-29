@@ -8,7 +8,7 @@ tags: ["Docker","Dotnet"]
 
 On Monday the 6th February of 2023, I woke up to find a surprising email in my inbox.
 
-![An email with the subject RE: Chord Generator](mail_inbox.png)
+![An email with the subject RE: Chord Generator](mail_inbox.webp)
 
 ## What is a Chord Generator?!
 
@@ -28,9 +28,9 @@ I also made a complete fool out of myself heavily refactoring the small code bas
 
 Here are basically my only interactions with the project and Einar Egilsson.
 
-![Screenshot of a merged GitHub pull request to replace # and b in Chord names with the according musical signs](github_pull_request.png)
+![Screenshot of a merged GitHub pull request to replace # and b in Chord names with the according musical signs](github_pull_request.webp)
 
-![Screenshot of a closed GitHub pull request named Refactoring and Code Cleanup](github_refactoring_pull_request.png)
+![Screenshot of a closed GitHub pull request named Refactoring and Code Cleanup](github_refactoring_pull_request.webp)
 
 ## Back in 2023...an unexpected mail
 
@@ -139,7 +139,7 @@ And here's the response. 😊
 > Your friend,
 > Kendall Miller
 
-![A screenshot of the Chord Generator web service.](chord_generator.png)
+![A screenshot of the Chord Generator web service.](chord_generator.webp)
 
 ## Bugs, bugs, bugs...and an outlook
 

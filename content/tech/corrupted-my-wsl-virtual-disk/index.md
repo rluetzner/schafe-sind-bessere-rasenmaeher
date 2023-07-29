@@ -37,7 +37,7 @@ After running this command, I was unable to start WSL again. It failed with an e
 
 I ran **Unlocker**, but couldn't find the cause. I did some internet research and found a comment that prompted me to check the Windows Disk Management dialog. There should be a virtual disk that I was supposed to unmount.
 
-![A screenshot of the Windows Disk Managment dialog.](windows-disk-management.png)
+![A screenshot of the Windows Disk Managment dialog.](windows-disk-management.webp)
 
 For whatever reason, in between reading this post and opening up the dialog, I forgot all about the virtual disk and especially why it would be there in the first place. So when I opened up the dialog, I was confronted with a message box.
 
