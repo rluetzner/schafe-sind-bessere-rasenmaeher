@@ -1,6 +1,7 @@
 theme: 'readable'
 title: 'Schafe sind bessere Rasenmäher'
 pluralizelisttitles: False
+enableRobotsTXT: true
 
 params:
   author: 'Robert Lützner'
