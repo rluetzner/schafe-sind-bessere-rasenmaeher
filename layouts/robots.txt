@@ -1,20 +1,17 @@
 User-agent: *
 Disallow: /
 
-# https://www.cyberciti.biz/web-developer/block-openai-bard-bing-ai-crawler-bots-using-robots-txt-file/
-# Block OpenAI
 User-agent: OpenAI
 Disallow: /
+
 User-agent: GPTBot
 Disallow: /
+
 User-agent: ChatGPT-User
 Disallow: /
 
-# Block Google Bard AI
 User-agent: Google-Extended
 Disallow: /
 
-# Block Common Crawl
 User-agent: CCBot
 Disallow: /
-
