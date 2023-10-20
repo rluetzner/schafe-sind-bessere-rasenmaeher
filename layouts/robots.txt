@@ -5,6 +5,10 @@ Disallow: /
 # Block OpenAI
 User-agent: OpenAI
 Disallow: /
+User-agent: GPTBot
+Disallow: /
+User-agent: ChatGPT-User
+Disallow: /
 
 # Block Google Bard AI
 User-agent: Google-Extended
@@ -13,3 +17,4 @@ Disallow: /
 # Block Common Crawl
 User-agent: CCBot
 Disallow: /
+
