@@ -30,7 +30,7 @@ Pretty much the same explanation that I found for Motörhead: once I understood 
 
 Other than a lot of bands, I don't know much about Helltrain. They are a swedish band and have released 3 albums and a few loose tracks at the time I'm writing this. I also know that their drummer died a few years ago, but they've been active since. In fact, according to Bandcamp, the latest single _Mischief_ was released on the 26th of May 2023 -- this year!
 
-They themselves describe their music as "Punk rot'n'roll" (at least they used to 😅). I'd say it lives somewhere between being groovy as classic Rock'n'Roll songs, with the wall of sound that comes with a lot of metal and aggressively growled vocals. There's also an organ in there sometimes. 😁
+They themselves describe their music as "Punk Ass Rot'n'Roll" (at least they used to 😅). I'd say it lives somewhere between being groovy as classic Rock'n'Roll songs, with the wall of sound that comes with a lot of metal and aggressively growled vocals. There's also an organ in there sometimes. 😁
 
 Apparently nowadays they go by Death'n'Roll, which is fine by me.
 
