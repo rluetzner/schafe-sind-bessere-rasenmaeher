@@ -96,7 +96,7 @@ There's no real "game" to be had. It's mostly a wild pixelated killing spree, wh
 
 You shoot cats, because I lived with a guy who owned a cat and I just so happened to meet her on my way to the kitchen.
 
-Yeah, so -- about that presentation. 😅 I did indeed put together a PowerPoint presentation, which I actually still have and is now preserved [here as a PDF](miez_attack_presentation.pdf).
+Yeah, so -- about that presentation. 😅 I did indeed put together a PowerPoint presentation, which I actually still have and is now preserved [here as a PDF](miez_attack_presentation.pdf)(beware: it's fully in German)[^presentation].
 
 {{< video source="miez_attack_movie.mp4" caption="This movie was part of the PowerPoint presentation and shows Miez Attack in action. Don't worry it's not supposed to have sound -- although I did compose awesome music and mix together sound effects for the game." >}}
 
@@ -127,3 +127,4 @@ Oh, and I'm sorry about the cats. I admit that I like dogs more than cats, but I
 [^book_about_scheme]: The stated reason to use Scheme was, so everybody would start from scratch. I suspect the fact that the professor had just recently published a book about Scheme -- which he warmly recommended for the course -- might also have had something to do with it. 😉
 [^masters_thesis]: Master's thesis.
 [^unimaginable]: Unimaginable today, as a full-time working dad of two.
+[^presentation]: At first glance I can't quite make out what I would have said during the presentation. I sure as hell was bragging about number of classes, lines of code and depth of inheritance. I know better now. 😉 But there's also some high level overview about game loops that shows that I learned something.
