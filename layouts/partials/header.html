@@ -6,10 +6,16 @@
     <img width="100" height="100" src="{{ $.Site.Params.site_logo }}" alt="" />
   </a>
 </figure>
-<nav data-style="classy">
+
+<!-- readable.css v1.1.0 introduced different navbar styles and defaults to a
+navbar without animations. We default to "classy" to keep the animations and be
+backwards compatible to earlier versions of this theme without requiring a
+config change. -->
+{{ $navbar_style := (default "classy" $.Site.Params.navbar_style) }}
+<nav data-style={{ $navbar_style }}>
   {{ range .Site.Menus.main -}}
-  <span>
+  {{ if eq $navbar_style "classy" }}<span>{{ end }}
       <a href="{{ .URL | absLangURL }}">{{ .Name }}</a>
-  </span>
+  {{ if eq $navbar_style "classy" }}</span>{{ end }}
   {{- end }}
 </nav>
