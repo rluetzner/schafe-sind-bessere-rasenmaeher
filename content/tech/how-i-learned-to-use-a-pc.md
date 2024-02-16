@@ -14,6 +14,8 @@ The other parts can be found here:
 * How I learned how to use a PC
 * [How I came to love Linux]({{< ref "how-i-came-to-love-linux" >}})
 * [Gaming on Linux]({{< ref "gaming-on-linux" >}})
+
+This whole series was inspired by [_From Windows Fidelity to Linux Liberty: My Computing Evolution_](https://www.sudoversity.fyi/posts/windows-fidelity-linux-liberty/), a blog post by [SudoMistress](https://www.sudoversity.fyi/about/).
 {{</ aside >}}
 
 When I was 10, my mom decided that we too needed a PC in our household. She wasn't exactly sure what she'd do with it (probably write letters or something, but I can't remember seeing her do that particularly often), but it was _all the rage_, so we needed one too.

@@ -14,6 +14,8 @@ The other parts can be found here:
 * [How I learned how to use a PC]({{< ref "how-i-learned-to-use-a-pc" >}})
 * How I came to love Linux
 * [Gaming on Linux]({{< ref "gaming-on-linux" >}})
+
+This whole series was inspired by [_From Windows Fidelity to Linux Liberty: My Computing Evolution_](https://www.sudoversity.fyi/posts/windows-fidelity-linux-liberty/), a blog post by [SudoMistress](https://www.sudoversity.fyi/about/).
 {{</ aside >}}
 
 I can't exactly remember the first time I heard about this mystical alternative OS _Linux_. I was probably 15 or 16 and I must have heard about it from my friend's older brother, who was studying computer science.

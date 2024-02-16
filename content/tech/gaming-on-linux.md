@@ -14,6 +14,8 @@ The other parts can be found here:
 * [How I learned how to use a PC]({{< ref "how-i-learned-to-use-a-pc" >}})
 * [How I came to love Linux]({{< ref "how-i-came-to-love-linux" >}})
 * Gaming on Linux
+
+This whole series was inspired by [_From Windows Fidelity to Linux Liberty: My Computing Evolution_](https://www.sudoversity.fyi/posts/windows-fidelity-linux-liberty/), a blog post by [SudoMistress](https://www.sudoversity.fyi/about/).
 {{</ aside >}}
 
 The final piece I needed to take the plunge on daily driving Linux was **gaming**.
