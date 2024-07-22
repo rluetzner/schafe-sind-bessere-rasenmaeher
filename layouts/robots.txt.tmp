@@ -1,0 +1,9 @@
+User-agent: Ariadne
+Allow: /
+
+User-agent: *
+Disallow: /
+
+User-agent: OpenAI
+Disallow: /
+
