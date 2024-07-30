@@ -26,9 +26,12 @@ User-agent: GoogleOther-Video
 User-agent: GPTBot
 User-agent: ImagesiftBot
 User-agent: img2dataset
+User-agent: Meta-ExternalAgent
 User-agent: OAI-SearchBot
 User-agent: omgili
 User-agent: omgilibot
 User-agent: PerplexityBot
+User-agent: Timpibot
+User-agent: VelenPublicWebCrawler
 User-agent: YouBot
 Disallow: /
