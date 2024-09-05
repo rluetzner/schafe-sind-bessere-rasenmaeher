@@ -21,13 +21,16 @@ menu:
   main:
     - name: 'Stuff'
       url: '/posts/'
-      weight: 1
+      weight: 10
     - name: 'Tech'
       url: '/tech/'
-      weight: 2
+      weight: 20
+    - name: 'Mindfulness'
+      url: '/mindfulness/'
+      weight: 30
     - name: 'Geschichten'
       url: '/stories/'
-      weight: 3
+      weight: 90
     - name: 'Imprint'
       url: '/imprint/'
-      weight: 4
+      weight: 99
