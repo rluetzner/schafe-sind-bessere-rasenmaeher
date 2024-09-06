@@ -1,7 +1,14 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Docker on Schafe sind bessere Rasenmäher</title><link>/tags/docker/</link><description>Recent content in Docker on Schafe sind bessere Rasenmäher</description><generator>Hugo</generator><language>en</language><lastBuildDate>Fri, 27 Jan 2023 21:07:46 +0100</lastBuildDate><atom:link href="/tags/docker/index.xml" rel="self" type="application/rss+xml"/><item><title>How I inherited an Open Source project</title><link>/tech/how-i-inherited-an-open-source-project/</link><pubDate>Fri, 27 Jan 2023 21:07:46 +0100</pubDate><guid>/tech/how-i-inherited-an-open-source-project/</guid><description>On Monday the 6th February of 2023, I woke up to find a surprising email in my inbox.
-An email with the subject RE: Chord Generator What is a Chord Generator?! Let&amp;rsquo;s go back a little in history&amp;hellip;
-Back in 2017 I remember talking to my boss at work about GitHub. I mentioned, that I had a GitHub account, but at that time I only had one project uploaded and otherwise not interacted with it.</description></item><item><title>Docker builds are not reproducible</title><link>/tech/docker-builds-are-not-reproducible/</link><pubDate>Sun, 16 Oct 2022 21:30:08 +0200</pubDate><guid>/tech/docker-builds-are-not-reproducible/</guid><description>TL;DR
-If your Docker build depends on installing packages from an external package repository, you might be in for a surprise.
-A possible solution is to copy cached layers from an existing machine to a new one.
-I&amp;rsquo;ll probably out myself as an absolute idiot, but Docker builds are far from reproducible.
-Recently I had to setup a new Jenkins node at work and to verify that everything works correctly, I ran our build process.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Docker on Schafe sind bessere Rasenmäher</title><link>/tags/docker/</link><description>Recent content in Docker on Schafe sind bessere Rasenmäher</description><generator>Hugo</generator><language>en</language><lastBuildDate>Fri, 27 Jan 2023 21:07:46 +0100</lastBuildDate><atom:link href="/tags/docker/index.xml" rel="self" type="application/rss+xml"/><item><title>How I inherited an Open Source project</title><link>/tech/how-i-inherited-an-open-source-project/</link><pubDate>Fri, 27 Jan 2023 21:07:46 +0100</pubDate><guid>/tech/how-i-inherited-an-open-source-project/</guid><description>&lt;p>On Monday the 6th February of 2023, I woke up to find a surprising email in my inbox.&lt;/p>
+&lt;p>&lt;figure>
+ &lt;img src="mail_inbox.webp" alt="An email with the subject RE: Chord Generator" />
+ &lt;figcaption>An email with the subject RE: Chord Generator&lt;/figcaption>
+&lt;/figure>&lt;/p>
+&lt;h2 id="what-is-a-chord-generator">What is a Chord Generator?!&lt;/h2>
+&lt;p>Let&amp;rsquo;s go back a little in history&amp;hellip;&lt;/p>
+&lt;p>Back in 2017 I remember talking to my boss at work about GitHub. I mentioned, that I had a GitHub account, but at that time I only had one project uploaded and otherwise not interacted with it. He then encouraged me to seek out open source projects that pique my interest and see if I can contribute to them.&lt;/p></description></item><item><title>Docker builds are not reproducible</title><link>/tech/docker-builds-are-not-reproducible/</link><pubDate>Sun, 16 Oct 2022 21:30:08 +0200</pubDate><guid>/tech/docker-builds-are-not-reproducible/</guid><description>&lt;aside>&lt;p>&lt;p>&lt;strong>TL;DR&lt;/strong>&lt;/p>
+&lt;p>If your Docker build depends on installing packages from an external package repository, you might be in for a surprise.&lt;/p>
+&lt;p>A possible solution is to copy cached layers from an existing machine to a new one.&lt;/p>
+&lt;/p>&lt;/aside>
+
+&lt;p>I&amp;rsquo;ll probably out myself as an absolute idiot, but Docker builds are far from reproducible.&lt;/p>
+&lt;p>Recently I had to setup a new Jenkins node at work and to verify that everything works correctly, I ran our build process. To my surprise the build step creating and exporting a Docker image failed.&lt;/p></description></item></channel></rss>
