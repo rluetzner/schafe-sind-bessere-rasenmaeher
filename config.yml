@@ -15,6 +15,7 @@ params:
   mainSections:
     - posts
     - tech
+    - mindfulness
     - stories
 
 menu:
@@ -31,6 +32,3 @@ menu:
     - name: 'Geschichten'
       url: '/stories/'
       weight: 90
-    - name: 'Imprint'
-      url: '/imprint/'
-      weight: 99
