@@ -5,6 +5,7 @@ draft: false
 categories: ["micro-fiction"]
 tags: ["kinder","aus-dem-leben"]
 license: cc-by-nc-sa
+languageCode: de
 ---
 
 "Mamaaaa?"

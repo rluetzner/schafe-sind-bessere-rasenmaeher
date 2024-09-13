@@ -5,6 +5,7 @@ draft: false
 categories: ["kurzgeschichte"]
 tags: ["sci-fi", "wettbewerb"]
 license: cc-by-nc-nd
+languageCode: de
 ---
 
 {{< aside >}}

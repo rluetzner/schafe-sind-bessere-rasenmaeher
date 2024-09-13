@@ -5,6 +5,7 @@ draft: false
 categories: ["kürzestgeschichte"]
 tags: ["locker", "humorvoll"]
 license: cc-by-nc-sa
+languageCode: de
 ---
 
 Eine Käferin sitzt auf einem Baum neben einem Käfer. Es ist ein faszinierender Käfer, aber für ihren Geschmack sind sie beide doch ein wenig zu unterschiedlich.

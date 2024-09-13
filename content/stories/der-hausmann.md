@@ -5,6 +5,7 @@ draft: false
 categories: ["kürzestgeschichte"]
 tags: ["locker", "humorvoll"]
 license: cc-by-nc-sa
+languageCode: de
 ---
 
 Erschöpft aber zufrieden ließ er den Staubwedel sinken. Mit seiner freien

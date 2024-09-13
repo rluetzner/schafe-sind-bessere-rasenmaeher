@@ -5,6 +5,7 @@ draft: false
 categories: ["kürzestgeschichte"]
 tags: ["locker", "humorvoll"]
 license: cc-by-nc-sa
+languageCode: de
 ---
 
 Bing.

@@ -5,6 +5,7 @@ draft: false
 categories: ["Kurzgeschichte"]
 tags: ["horror"]
 license: cc-by-nc-sa
+languageCode: de
 ---
 
 # 1

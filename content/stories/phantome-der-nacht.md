@@ -5,6 +5,7 @@ draft: false
 categories: ["kürzestgeschichte"]
 tags: ["melancholisch"]
 license: cc-by-nc-sa
+languageCode: de
 ---
 
 Sie spürte eine Leere neben sich die sie nicht erklären konnte. Das große Bett war leer wie immer, aber zum ersten Mal fühlte es sich an als würde etwas fehlen.

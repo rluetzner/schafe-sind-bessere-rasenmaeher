@@ -5,6 +5,7 @@ draft: false
 categories: ["kürzestgeschichte"]
 tags: ["wettbewerb", "fantasy", "kinder"]
 license: cc-by-nc-sa
+languageCode: de
 ---
 
 {{< aside >}}

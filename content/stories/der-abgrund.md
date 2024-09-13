@@ -5,6 +5,7 @@ draft: false
 categories: ["kürzestgeschichte"]
 tags: ["nachdenklich"]
 license: cc-by-nc-sa
+languageCode: de
 ---
 
 

@@ -5,6 +5,7 @@ draft: false
 categories: ["kürzestgeschichte"]
 tags: ["locker"]
 license: cc-by-nc-sa
+languageCode: de
 ---
 
 Der Bart war asymmetrisch. Das war was ihn störte. Aber jetzt war es doch ein wenig zu knapp um noch mit der Schere zu hantieren. Und ganz nebenbei war er ja sonst auch nicht ordentlich rasiert. Aber irgendwie ließ in der schiefe Bart nicht zufrieden. Er zupfte noch ein paar Mal daran herum, als ob er damit das Gleichgewicht wiederherstellen könnte. Unzufrieden betrachtete er sich im Spiegel.

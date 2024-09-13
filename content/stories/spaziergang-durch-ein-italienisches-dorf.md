@@ -5,6 +5,7 @@ draft: false
 categories: ["kürzestgeschichte"]
 tags: ["locker"]
 license: cc-by-nc-sa
+languageCode: de
 ---
 
 „Buongiorno“, sagt das junge hübsche Mädchen im blauen Kleid. Ich, ein bisschen über die Freundlichkeit verwundert und mehr als nur ein wenig geschmeichelt, nuschele etwas zurück was wohl eher nach Bomjom klingt.

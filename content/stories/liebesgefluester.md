@@ -5,6 +5,7 @@ draft: false
 categories: ["micro-fiction"]
 tags: ["locker"]
 license: cc-by-nc-sa
+languageCode: de
 ---
 
 "Und es stört dich wirklich nicht, dass ich so haarig bin?", fragte sie.

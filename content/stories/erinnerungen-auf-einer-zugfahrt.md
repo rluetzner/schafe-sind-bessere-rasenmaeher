@@ -5,6 +5,7 @@ draft: false
 categories: ["kürzestgeschichte"]
 tags: ["nachdenklich"]
 license: cc-by-nc-sa
+languageCode: de
 ---
 
 Der Wind heulte laut über die offene Strecke. Das Rattern des Zuges auf den Gleisen vermischte sich mit dem Donnergrollen des Gewitters über ihm. Der beinahe waagerecht fallende Regen prasselte durch das gekippte Fenster auf sein Gesicht, doch er machte keine Anstalten etwas dagegen zu unternehmen. Im Gegenteil: er fand die kalten Wasserspritzer sehr angenehm.

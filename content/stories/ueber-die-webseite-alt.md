@@ -5,6 +5,7 @@ draft: false
 categories: ["micro-fiction"]
 tags: ["selbst"]
 license: cc-by-nc-sa
+languageCode: de
 ---
 
 {{< aside >}}

@@ -5,6 +5,7 @@ draft: false
 categories: ["kürzestgeschichte"]
 tags: ["kinder"]
 license: cc-by-nc-sa
+languageCode: de
 ---
 
 Die kleine Bahn steht am Bahnhof und wartet bis alle eingestiegen sind. Da sind Familien mit kleinen Kindern, alte Leute mit Gehhilfen und Menschen die einfach viele Koffer dabei haben. Die kleine Bahn wartet geduldig auf alle.

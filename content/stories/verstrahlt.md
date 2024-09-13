@@ -5,6 +5,7 @@ draft: true
 categories: ["kürzestgeschichte"]
 tags: []
 license: cc-by-nc-sa
+languageCode: de
 ---
 
 {{< aside >}}

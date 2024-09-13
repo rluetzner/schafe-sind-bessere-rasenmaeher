@@ -5,6 +5,7 @@ draft: false
 categories: ["kürzestgeschichte"]
 tags: ["traurig", "nachdenklich"]
 license: cc-by-nc-sa
+languageCode: de
 ---
 
 ![A daisy has broken through cracks in the concrete](flower.webp)

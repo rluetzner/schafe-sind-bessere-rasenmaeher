@@ -5,6 +5,7 @@ draft: false
 categories: ["gedicht"]
 tags: ["nachdenklich", "traurig"]
 license: cc-by-nc-sa
+languageCode: de
 ---
 
 In mir gibt es einen See,  

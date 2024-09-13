@@ -5,6 +5,7 @@ draft: true
 categories: ["real-life"]
 tags: ["selbst"]
 license: cc-by-nc-sa
+languageCode: de
 ---
 
 {{< aside >}}

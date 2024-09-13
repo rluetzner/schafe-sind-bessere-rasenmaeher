@@ -5,6 +5,7 @@ draft: false
 categories: ["kürzestgeschichte"]
 tags: ["horror"]
 license: cc-by-nc-sa
+languageCode: de
 ---
 
 Ein Knarzen ließ sie aufhorchen. Konnte das Großvater sein? Lisa spitzte die Ohren und hielt den Atem an.

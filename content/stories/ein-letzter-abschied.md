@@ -5,6 +5,7 @@ draft: false
 categories: ["kürzestgeschichte"]
 tags: ["melancholisch", "fantasy"]
 license: cc-by-nc-sa
+languageCode: de
 ---
 
 Majestätisch erhob sich der Rochen in die Lüfte. Obwohl Maja das Schauspiel schon unzählige Male gesehen hatte, stockte ihr immer noch der Atem.

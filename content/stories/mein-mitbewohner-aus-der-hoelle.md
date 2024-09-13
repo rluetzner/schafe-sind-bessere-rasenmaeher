@@ -5,6 +5,7 @@ draft: false
 categories: ["kürzestgeschichte"]
 tags: ["horror", "humorvoll"]
 license: cc-by-nc-sa
+languageCode: de
 ---
 
 *Plitsch, platsch.*

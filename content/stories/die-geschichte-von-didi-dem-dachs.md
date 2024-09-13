@@ -5,6 +5,7 @@ draft: false
 categories: ["kürzestgeschichte"]
 tags: ["kinder"]
 license: cc-by-nc-sa
+languageCode: de
 ---
 
 {{< aside >}}

@@ -6,5 +6,9 @@
 {{- partial "content-warning.html" . -}}
 {{ .Content }}
 </article>
+{{ if eq .Params.languageCode "de" }}
+{{- partial "content-license-de.html" . -}}
+{{ else }}
 {{- partial "content-license.html" . -}}
+{{ end }}
 {{ end }}
