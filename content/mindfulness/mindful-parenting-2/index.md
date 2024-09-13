@@ -22,4 +22,4 @@ Things I can do:
 
 Bonus:
 
-![That's the perfect blogging workspace right here. A smartphone is put up against a glass, running Vim in a Termux session. A wireless keyboard is on the table in front of it.](blogging-space.jpg)
+![That's the perfect blogging workspace right here. A smartphone is put up against a glass, running Vim in a Termux session. A wireless keyboard is on the table in front of it.](blogging-space.webp)

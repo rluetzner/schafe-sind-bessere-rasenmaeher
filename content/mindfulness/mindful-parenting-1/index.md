@@ -39,7 +39,7 @@ Last week I stumbled upon the [Humble Book Bundle: Thich Nhat Hanh's Zen Library
 
 Rifling through the selection of books, I found _Reconciliation: Healing the inner child_. The title spoke to me immediately.
 
-![Book cover of Reconciliation.](cover.jpg)
+![Book cover of Reconciliation.](cover.webp)
 
 We're currently on vacation on a nearby farm, about an hour's drive by car from our home, so today I finally decided to get started with the book.
 
@@ -73,11 +73,11 @@ I looked over at my son on the swing and I went over. He had asked me a few hour
 
 So I put on my suit and off we went. We visited planets 1 through 9 -- no relation to our actual planetary system. We met some fierce extraterrestrials which my space captain quickly ran off, but also some terrestrial cows and ponies ("No, these are _normal_ ponies, dad.").
 
-![An extraterrestrial fort on planet 4 (and 5). A playhouse with a ladder, knotted climbing rope and a wobbly bridge.](planet-4.jpg)
+![An extraterrestrial fort on planet 4 (and 5). A playhouse with a ladder, knotted climbing rope and a wobbly bridge.](planet-4.webp)
 
-![Terrestrial ponies in a paddock.](ponies.jpg)
+![Terrestrial ponies in a paddock.](ponies.webp)
 
-![Terrestrial cows.](cows.jpg)
+![Terrestrial cows.](cows.webp)
 
 It's been years since I've last used my imagination in this way. I'm always sad whenever I think about how creative and imaginative (day-and-night-dreamy) I used to be as a kid. I usually feel like this part of me is gone forever, however today was the first time I felt hopeful that there's a chance that I can reignite this spark.
 

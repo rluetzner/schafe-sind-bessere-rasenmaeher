@@ -68,11 +68,11 @@ I was never big into _Darkest Dungeon_, a roguelike tactics videogame. However, 
 
 When you spend too much time crawling through dungeons in the dark and getting attacked by weird monsters, the stress level of each character rises until it hits a breaking point. And then...
 
-![A character from Darkest Dungeon has hit their breaking point and is hit with the "irrational" affliction. The character's face is distorted by a grimace of pain. The person is outlined in a deep red.](dd-failed.jpg)
+![A character from Darkest Dungeon has hit their breaking point and is hit with the "irrational" affliction. The character's face is distorted by a grimace of pain. The person is outlined in a deep red.](dd-failed.webp)
 
 At least this is what usually happens. However, there's a very small stat-based chance that characters will instead prevail and get a second wind.
 
-![A character from Darkest Dungeon has hit their breaking point and prevailed. They have a glowing golden outline and are now "focused".](dd-resolved.jpg)
+![A character from Darkest Dungeon has hit their breaking point and prevailed. They have a glowing golden outline and are now "focused".](dd-resolved.webp)
 
 I've noticed something very similar happen to me. At least in the last few weeks I failed my stat check every single time and would go into a shouting rage when I reached my breaking point. Prior to that I've had a few occasions where I noticed I was fast approaching the point of no return and managed to swerve into _epic parenting mode_ at just the right moment. I would then calmly address my kids and defuse the situation.
 
@@ -112,7 +112,7 @@ Sorry for taking such a long trip down memory lane. I kinda like that story. I w
 
 Getting back to today...
 
-![Photo taken while riding a cable car. Lots of trees seen from pretty high up.](cable-car.jpg)
+![Photo taken while riding a cable car. Lots of trees seen from pretty high up.](cable-car.webp)
 
 In particular this is the longest cable car ride of this specific type in Germany, the [Schauinslandbahn](https://en.m.wikipedia.org/wiki/Schauinslandbahn). I've ridden this beast a few times, but I always forget that I get vertigo at a certain point.
 
