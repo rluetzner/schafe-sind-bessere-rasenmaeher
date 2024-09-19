@@ -1,7 +1,7 @@
 ---
 title: "RSS Feeds"
 draft: false
-omit_header_text: false
+omit_header_text: true
 ---
 
 {{< rssfeeds >}}
