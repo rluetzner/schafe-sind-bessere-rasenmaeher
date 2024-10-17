@@ -1,10 +1,11 @@
 ---
-title: "Old habits die hard #1"
+title: "One step at a time #1"
 date: 2024-09-29T22:09:38+02:00
 draft: false
 categories: ["mindfulness"]
 tags: ["meditation", "mindfulness"]
 license: cc-by-nc-sa
+aliases: ["old-habits-die-hard-1"]
 ---
 
 Alright people! Time for the nitty-gritty!
