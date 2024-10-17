@@ -47,13 +47,13 @@ Now, I absolutely liked every minute of _The Devil's Hour_. The camera and spars
 
 Here's what I tooted while watching the show:
 
-{{< rawhtml >}}
-<iframe src="https://rollenspiel.social/@mforester/109706753678101019/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://rollenspiel.social/embed.js" async="async"></script>
+{{< aside >}}
+Heyho! Robert from the future here!
 
-<iframe src="https://rollenspiel.social/@mforester/109729195829224102/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://rollenspiel.social/embed.js" async="async"></script>
+I set my toots to expire and forgot that I had embedded some of them here.
 
-<iframe src="https://rollenspiel.social/@mforester/109735090720499196/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://rollenspiel.social/embed.js" async="async"></script>
-{{< /rawhtml >}}
+They are gone forever, but probably said a bunch of "WTF is going on".
+{{< /aside >}}
 
 But...
 
