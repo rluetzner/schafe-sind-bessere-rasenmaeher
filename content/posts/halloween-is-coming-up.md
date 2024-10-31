@@ -66,11 +66,11 @@ This is a movie that I can absolutely recommend, because it is just absolutely b
 
 ### Friday the 13th Part VII -- The New Blood (1988)
 
-And this is where the blow it again. On the one hand it has a telekinetic protagonist, who uses her powers to fight against Jason, but on the other hand it's again too serious. This could have done with some of Part VI's over-the-top-ness.
+And this is where they blow it again. On the one hand it has a telekinetic protagonist, who uses her powers to fight against Jason, but on the other hand it's again too serious. This could have done with some of Part VI's over-the-top-ness.
 
 ### Friday the 13th Part VIII: Jason Takes Manhattan (1989)
 
-Here are some quotes from other viewers on [Rotten Tomatoes}(https://www.rottentomatoes.com/m/friday_the_13th_part_8_jason_takes_manhattan):
+Here are some quotes from other viewers on [Rotten Tomatoes](https://www.rottentomatoes.com/m/friday_the_13th_part_8_jason_takes_manhattan):
 
 > After over one hour, Jason finally arrives in Manhattan but doesn't take shit, only making this another dull and miserably awful sequel that feels like an eternity, with uninspired deaths, a bizarrely schizophrenic protagonist and a ludicrous plot even worse than the last.
 > 
@@ -274,6 +274,6 @@ Laurie does get to finish of Michael, but the ending is neither epic nor climact
 
 I saw this when it first came out and followed it regularly on Amazon. One of the few series (apart from _The Expanse_) where I was waiting every week for a new episode to come out, just like in the olden days.
 
-I can't say quite how this happened, but I did forget how crazy fun this is. Almost all of the episodes are a breezy 23-25 minutes and are filled with hillariously incorrect, but still funny jokes and oneliners. This is the perfect continuation of _Evil Dead II_ and _Army of Darkness_.
+I can't say quite how this happened, but I did forget how crazy fun this is. Almost all of the episodes are a breezy 23-25 minutes and are filled with hilariously politically incorrect, but still funny jokes and oneliners. This is the perfect continuation of _Evil Dead II_ and _Army of Darkness_.
 
-I just fear that the humour falls down sometime in the next two seasons and that's where my bad memories from this series come from. However, the first season is absolutely amazing. Pablo and Kelly are great sidekicks and characters in their own right. Having honduran Pablo next to the racially, politically and generally insensitive character of Ash leads to some of the best jokes. I can appriciate them that much more, because I know that Ash is not really racist, but just an absolute dumbass that gets lucky most of the time. "Shoot first, think never!" 🤣
+I just fear that the humour falls down sometime in the next two seasons and that's where my bad memories from this series come from. However, the first season is absolutely amazing. Pablo and Kelly are great sidekicks and characters in their own right. Having Honduran Pablo next to the racially, politically and generally insensitive character of Ash leads to some of the best jokes. I can appreciate them that much more, because I know that Ash is not really racist, but just an absolute dumbass that gets lucky most of the time. "Shoot first, think never!" 🤣
