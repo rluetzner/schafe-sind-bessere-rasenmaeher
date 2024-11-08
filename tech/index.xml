@@ -1,10 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tech on Schafe sind bessere Rasenmäher</title><link>/tech/</link><description>Recent content in Tech on Schafe sind bessere Rasenmäher</description><generator>Hugo</generator><language>en</language><lastBuildDate>Sat, 19 Oct 2024 19:07:46 +0100</lastBuildDate><atom:link href="/tech/index.xml" rel="self" type="application/rss+xml"/><item><title>Plug &amp; Backup -- with Rsync, Gotify and udev rules</title><link>/tech/plug-and-backup-with-rsync-gotify-and-udev-rules/</link><pubDate>Sat, 19 Oct 2024 19:07:46 +0100</pubDate><guid>/tech/plug-and-backup-with-rsync-gotify-and-udev-rules/</guid><description>&lt;p>This is gonna be a step-by-step reconstruction of how my backup script evolved over various iterations.&lt;/p>
 &lt;p>If you&amp;rsquo;re just interested in the top-level steps, you can take a look at the section headings.&lt;/p>
-&lt;nav id="TableOfContents">&lt;/nav>
+&lt;div class="toc">
+ &lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>&lt;a href="#starting-out-with-rsync">Starting out with rsync&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#introducing-gotify">Introducing Gotify&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#unmount-the-disk">Unmount the disk&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#finding-the-right-disk-by-uuid">Finding the right disk by UUID&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#automating-away-the-rest-with-a-udev-rule-and-a-service">Automating away the rest with a udev rule and a service&lt;/a>
+ &lt;ul>
+ &lt;li>&lt;a href="#homepiconfigsystemduserlocal-backupservice">/home/pi/.config/systemd/user/local-backup.service&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#homepirun-backup-servicesh">/home/pi/run-backup-service.sh&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#etcudevrulesd99-backup-diskrules">/etc/udev/rules.d/99-backup-disk.rules&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/li>
+ &lt;li>&lt;a href="#finishing-touches----add-a-trap-for-errors">Finishing touches &amp;ndash; add a trap for errors&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#conclusion">Conclusion&lt;/a>&lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;/div>
 
 &lt;h2 id="starting-out-with-rsync">Starting out with rsync&lt;/h2>
-&lt;p>I&amp;rsquo;m a big fan of &lt;a href="https://restic.net">Restic&lt;/a> for backups. It&amp;rsquo;s one of the first tools I install on a new system.&lt;/p>
-&lt;p>In this particular case however, I decided to use good old &lt;code>rsync&lt;/code> instead. I&amp;rsquo;m backing up the data for all my self-hosted stuff on my Raspberry Pi, including photos, documents and movies / TV shows I ripped from my physical media. There&amp;rsquo;s a certain charm in just plugging the backup disk into any PC and accessing the files directly.&lt;/p></description></item><item><title>Routing to other servers with Traefik</title><link>/tech/routing-to-other-servers-with-traefik/</link><pubDate>Mon, 02 Sep 2024 20:56:12 +0100</pubDate><guid>/tech/routing-to-other-servers-with-traefik/</guid><description>&lt;p>I recently added &lt;a href="https://immich.app">Immich&lt;/a> to my homelab. To be precise: I added it to the 30 or so Docker containers that were already running on my Raspberry Pi 4 &amp;ndash; and it finally caused my already wobbly setup to collapse.&lt;/p>
+&lt;p>I&amp;rsquo;m a big fan of &lt;a href="https://restic.net">Restic&lt;/a> for backups. It&amp;rsquo;s one of the first tools I install on a new system.&lt;/p></description></item><item><title>Routing to other servers with Traefik</title><link>/tech/routing-to-other-servers-with-traefik/</link><pubDate>Mon, 02 Sep 2024 20:56:12 +0100</pubDate><guid>/tech/routing-to-other-servers-with-traefik/</guid><description>&lt;p>I recently added &lt;a href="https://immich.app">Immich&lt;/a> to my homelab. To be precise: I added it to the 30 or so Docker containers that were already running on my Raspberry Pi 4 &amp;ndash; and it finally caused my already wobbly setup to collapse.&lt;/p>
 &lt;p>Immich comes with multiple containers, one of which is solely responsible for generating a local A.I. model to match people in photos. I tried a few ways to limit resources on the containers, but other services still kept crashing and the whole system became unresponsive. Oftentimes I couldn&amp;rsquo;t even SSH into it anymore.&lt;/p></description></item><item><title>.NET Framework and Code Coverage from the Terminal with OpenCover</title><link>/tech/net-framework-and-code-coverage-from-the-terminal/</link><pubDate>Fri, 12 Apr 2024 20:56:12 +0100</pubDate><guid>/tech/net-framework-and-code-coverage-from-the-terminal/</guid><description>&lt;blockquote>
 &lt;p>This is a condensed version of &lt;a href="https://sbytestream.pythonanywhere.com/blog/Code-Coverage-For-NUnit">https://sbytestream.pythonanywhere.com/blog/Code-Coverage-For-NUnit&lt;/a> . Many thanks Siddharth Barman, I wouldn&amp;rsquo;t have gotten this far without you.&lt;/p>
 &lt;p>Be advised that the &lt;a href="https://github.com/opencover/opencover/">OpenCover&lt;/a> project has been archived and is no longer actively developed. There are FOSS alternatives available, but this is what I got working, so I&amp;rsquo;ll stick with it until it breaks.&lt;/p>
@@ -40,7 +57,16 @@
 &lt;/p>&lt;/aside>
 
 &lt;p>When I was 10, my mom decided that we too needed a PC in our household. She wasn&amp;rsquo;t exactly sure what she&amp;rsquo;d do with it (probably write letters or something, but I can&amp;rsquo;t remember seeing her do that particularly often), but it was &lt;em>all the rage&lt;/em>, so we needed one too.&lt;/p></description></item><item><title>Miez Attack, or how I got a job with a game about shooting cats</title><link>/tech/miez-attack/</link><pubDate>Thu, 16 Nov 2023 20:07:46 +0100</pubDate><guid>/tech/miez-attack/</guid><description>&lt;p>Back in 2015, after I had graduated from university, I was looking for jobs. I had a major in Physics, but my heart was no longer in it. Instead I wanted to write computer programs. After writing countless applications and receiving a few rejections (and a whole bunch of nothing), I finally hit a breakthrough. A small local company was willing to invite me for an interview.&lt;/p>
-&lt;p>It was in August of 2015, which I remember very well, because it was an incredibly hot day and I came fully armored in a suit&lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>. I was expecting to be interviewed by some kind of total hard-ass boss (also in a suit) that would quickly dismantle my &amp;ldquo;pretend&amp;rdquo; knowledge of programming&lt;sup id="fnref:2">&lt;a href="#fn:2" class="footnote-ref" role="doc-noteref">2&lt;/a>&lt;/sup>. What came in were three guys, dressed in T-shirts, shorts and flip-flops.&lt;/p></description></item><item><title>Building a client-server application with Akka.NET</title><link>/tech/building-a-client-server-app-with-akka-net/</link><pubDate>Tue, 07 Nov 2023 20:07:46 +0100</pubDate><guid>/tech/building-a-client-server-app-with-akka-net/</guid><description>&lt;nav id="TableOfContents">&lt;/nav>
+&lt;p>It was in August of 2015, which I remember very well, because it was an incredibly hot day and I came fully armored in a suit&lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>. I was expecting to be interviewed by some kind of total hard-ass boss (also in a suit) that would quickly dismantle my &amp;ldquo;pretend&amp;rdquo; knowledge of programming&lt;sup id="fnref:2">&lt;a href="#fn:2" class="footnote-ref" role="doc-noteref">2&lt;/a>&lt;/sup>. What came in were three guys, dressed in T-shirts, shorts and flip-flops.&lt;/p></description></item><item><title>Building a client-server application with Akka.NET</title><link>/tech/building-a-client-server-app-with-akka-net/</link><pubDate>Tue, 07 Nov 2023 20:07:46 +0100</pubDate><guid>/tech/building-a-client-server-app-with-akka-net/</guid><description>&lt;div class="toc">
+ &lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>&lt;a href="#why-im-doing-what-im-doing">Why I&amp;rsquo;m doing what I&amp;rsquo;m doing&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#getting-remoting-to-work">Getting remoting to work&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#unwrangling-my-brain">Unwrangling my brain&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#the-finished-prototype">The finished prototype&lt;/a>&lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;/div>
 
 &lt;h2 id="why-im-doing-what-im-doing">Why I&amp;rsquo;m doing what I&amp;rsquo;m doing&lt;/h2>
 &lt;p>About a week ago or so, the QA guys at work asked me if I could help them out a bit. The test scenario required deploying a cluster of VMs running our product and putting some load on it. After a short outburst from my side (&amp;ldquo;HOW THE HELL DO YOU NOT DOCUMENT THE WAY YOU TEST THINGS!?&amp;rdquo;) we got talking about a cool &lt;em>manager&lt;/em> like application where we would be able to coordinate multiple clients running different load generators.&lt;/p></description></item><item><title>How I inherited an Open Source project</title><link>/tech/how-i-inherited-an-open-source-project/</link><pubDate>Fri, 27 Jan 2023 21:07:46 +0100</pubDate><guid>/tech/how-i-inherited-an-open-source-project/</guid><description>&lt;p>On Monday the 6th February of 2023, I woke up to find a surprising email in my inbox.&lt;/p>
@@ -48,11 +74,23 @@
  &lt;img src="mail_inbox.webp" alt="An email with the subject RE: Chord Generator" />
  &lt;figcaption>An email with the subject RE: Chord Generator&lt;/figcaption>
 &lt;/figure>&lt;/p>
-&lt;nav id="TableOfContents">&lt;/nav>
+&lt;div class="toc">
+ &lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>&lt;a href="#what-is-a-chord-generator">What is a Chord Generator?!&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#back-in-2023an-unexpected-mail">Back in 2023&amp;hellip;an unexpected mail&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#getting-my-hands-dirty">Getting my hands dirty&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#now-were-docking">Now we&amp;rsquo;re docking!&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#bugs-bugs-bugsand-an-outlook">Bugs, bugs, bugs&amp;hellip;and an outlook&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#resources-on-einar-egilsson">Resources on Einar Egilsson&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#closing-thoughts">Closing thoughts&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#edit---2023-04-14">Edit - 2023-04-14&lt;/a>&lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;/div>
 
 &lt;h2 id="what-is-a-chord-generator">What is a Chord Generator?!&lt;/h2>
-&lt;p>Let&amp;rsquo;s go back a little in history&amp;hellip;&lt;/p>
-&lt;p>Back in 2017 I remember talking to my boss at work about GitHub. I mentioned, that I had a GitHub account, but at that time I only had one project uploaded and otherwise not interacted with it. He then encouraged me to seek out open source projects that pique my interest and see if I can contribute to them.&lt;/p></description></item><item><title>How I accidentally corrupted my WSL virtual disk and what I learned from it</title><link>/tech/corrupted-my-wsl-virtual-disk/</link><pubDate>Thu, 12 Jan 2023 21:07:46 +0100</pubDate><guid>/tech/corrupted-my-wsl-virtual-disk/</guid><description>&lt;p>I love WSL. I mainly develop for Linux systems at work, but for company reasons am forced to use a Windows machine. WSL is the next best thing and I&amp;rsquo;ve been spending almost my entire time the last few years inside this sweet Linux environment.&lt;/p>
+&lt;p>Let&amp;rsquo;s go back a little in history&amp;hellip;&lt;/p></description></item><item><title>How I accidentally corrupted my WSL virtual disk and what I learned from it</title><link>/tech/corrupted-my-wsl-virtual-disk/</link><pubDate>Thu, 12 Jan 2023 21:07:46 +0100</pubDate><guid>/tech/corrupted-my-wsl-virtual-disk/</guid><description>&lt;p>I love WSL. I mainly develop for Linux systems at work, but for company reasons am forced to use a Windows machine. WSL is the next best thing and I&amp;rsquo;ve been spending almost my entire time the last few years inside this sweet Linux environment.&lt;/p>
 &lt;p>A few days ago however, I managed to almost destroy my WSL instance. It took me a while to figure out what exactly happened, but here it goes.&lt;/p></description></item><item><title>I toot with the power of cURL</title><link>/tech/i-toot-with-the-power-of-curl/</link><pubDate>Tue, 01 Nov 2022 20:56:12 +0100</pubDate><guid>/tech/i-toot-with-the-power-of-curl/</guid><description>&lt;p>I spent the last two days trying to make a simple script that toots a static message on Mastodon. The idea came to me, because my instance admin is determined to welcome all new users to the instance. He&amp;rsquo;s been using the same message for a while, but when asked he admited that he puts them together manually every time.&lt;/p>
 &lt;p>As I&amp;rsquo;m not familiar with administrating a Mastodon instance, I offered to help in automating the part of the process sending out a welcome toot. Here&amp;rsquo;s my journey including the pitfalls.&lt;/p></description></item><item><title>Docker builds are not reproducible</title><link>/tech/docker-builds-are-not-reproducible/</link><pubDate>Sun, 16 Oct 2022 21:30:08 +0200</pubDate><guid>/tech/docker-builds-are-not-reproducible/</guid><description>&lt;aside>&lt;p>&lt;p>&lt;strong>TL;DR&lt;/strong>&lt;/p>
 &lt;p>If your Docker build depends on installing packages from an external package repository, you might be in for a surprise.&lt;/p>

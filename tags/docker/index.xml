@@ -3,11 +3,23 @@
  &lt;img src="mail_inbox.webp" alt="An email with the subject RE: Chord Generator" />
  &lt;figcaption>An email with the subject RE: Chord Generator&lt;/figcaption>
 &lt;/figure>&lt;/p>
-&lt;nav id="TableOfContents">&lt;/nav>
+&lt;div class="toc">
+ &lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>&lt;a href="#what-is-a-chord-generator">What is a Chord Generator?!&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#back-in-2023an-unexpected-mail">Back in 2023&amp;hellip;an unexpected mail&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#getting-my-hands-dirty">Getting my hands dirty&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#now-were-docking">Now we&amp;rsquo;re docking!&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#bugs-bugs-bugsand-an-outlook">Bugs, bugs, bugs&amp;hellip;and an outlook&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#resources-on-einar-egilsson">Resources on Einar Egilsson&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#closing-thoughts">Closing thoughts&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#edit---2023-04-14">Edit - 2023-04-14&lt;/a>&lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;/div>
 
 &lt;h2 id="what-is-a-chord-generator">What is a Chord Generator?!&lt;/h2>
-&lt;p>Let&amp;rsquo;s go back a little in history&amp;hellip;&lt;/p>
-&lt;p>Back in 2017 I remember talking to my boss at work about GitHub. I mentioned, that I had a GitHub account, but at that time I only had one project uploaded and otherwise not interacted with it. He then encouraged me to seek out open source projects that pique my interest and see if I can contribute to them.&lt;/p></description></item><item><title>Docker builds are not reproducible</title><link>/tech/docker-builds-are-not-reproducible/</link><pubDate>Sun, 16 Oct 2022 21:30:08 +0200</pubDate><guid>/tech/docker-builds-are-not-reproducible/</guid><description>&lt;aside>&lt;p>&lt;p>&lt;strong>TL;DR&lt;/strong>&lt;/p>
+&lt;p>Let&amp;rsquo;s go back a little in history&amp;hellip;&lt;/p></description></item><item><title>Docker builds are not reproducible</title><link>/tech/docker-builds-are-not-reproducible/</link><pubDate>Sun, 16 Oct 2022 21:30:08 +0200</pubDate><guid>/tech/docker-builds-are-not-reproducible/</guid><description>&lt;aside>&lt;p>&lt;p>&lt;strong>TL;DR&lt;/strong>&lt;/p>
 &lt;p>If your Docker build depends on installing packages from an external package repository, you might be in for a surprise.&lt;/p>
 &lt;p>A possible solution is to copy cached layers from an existing machine to a new one.&lt;/p>
 &lt;/p>&lt;/aside>
