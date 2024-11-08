@@ -63,6 +63,20 @@ Every now and then I think about picking up a book, but so far I haven't done so
 
 And I kinda feel bad starting yet another book, but maybe that would be the way to go. I still haven't read any Terry Pratchett and now feels like a good time to start.
 
+{{< aside >}}
+Edit:
+
+For fuck's sake! Every single time I forget to mention that I'm doing well with my reduced coffee intake. 😅
+
+So, yes. I'm drinking one or two cups of coffee instead of the four to six cups I used to drink. When I'm at the coffee machine in the office, my finger will often hover over the coffee button first, before I willfully move it over to the hot water dispenser button.
+
+To be quite honest -- I don't feel that much of a difference.
+
+I'm pretty safe from getting over-caffeinated and jittery, but other than that I haven't noticed sleeping better. I'm in a slightly better mood, but with everything else going on, it's not easy to tell if it's related to drinking less coffee or not.
+
+But I'm proud of what I've achieved and that this is something I stuck with for multiple months now.
+{{</ aside >}}
+
 ## Meditating
 
 Yet another way in which I haven't been listening to my body. I've had multiple occasions for a few calm minutes, but I've ignored all of them for some mindless phone tapping.
