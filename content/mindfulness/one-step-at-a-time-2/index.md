@@ -9,6 +9,8 @@ license: cc-by-nc-sa
 
 I think it's time to reflect on the progress I've made the last few weeks. I've been meaning to do these updates more regularly, but I've been doing other things instead.
 
+{{< toc >}}
+
 ## Positive phrasing
 
 If you've been following along, you might be confused by the number _2_ in the title. I renamed the previous post from _old habits die hard_ to _one step at a time_, because it sounds a tad more positive.

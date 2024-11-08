@@ -9,6 +9,8 @@ license: cc-by-nc-sa
 
 Here's what I've been up to this last week.
 
+{{< toc >}}
+
 ## Gaming
 
 After a long drought without gaming (the little one kept going to bed well after 21:30), I finally found the time for a few hours of gaming with only minor interruptions.

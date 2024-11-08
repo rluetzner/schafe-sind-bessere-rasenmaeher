@@ -7,6 +7,8 @@ tags: ["dotnet", "c#", "akka"]
 license: cc-by-nc-sa
 ---
 
+{{< toc >}}
+
 ## Why I'm doing what I'm doing
 
 About a week ago or so, the QA guys at work asked me if I could help them out a bit. The test scenario required deploying a cluster of VMs running our product and putting some load on it. After a short outburst from my side ("HOW THE HELL DO YOU NOT DOCUMENT THE WAY YOU TEST THINGS!?") we got talking about a cool _manager_ like application where we would be able to coordinate multiple clients running different load generators.

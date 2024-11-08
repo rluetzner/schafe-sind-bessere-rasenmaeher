@@ -9,6 +9,8 @@ license: cc-by-nc-sa
 
 I've only been back on the Mindfulness train a few days, but I'm already noticing so many small things.
 
+{{< toc >}}
+
 ## Less things break
 
 It's kinda obvious in hindsight, but less things break when you're being more careful. I'm not deliberately trying to be more careful, but whenever I can I try to keep myself in the moment.

@@ -17,6 +17,8 @@ I've even joked about renaming this series back to _old habits die hard_. 😅
 
 But let's step through the topics individually.
 
+{{< toc >}}
+
 ## Positive phrasing
 
 This has probably suffered the most in the last few weeks. I've been swearing and cursing both under my breath or just in my own thoughts.

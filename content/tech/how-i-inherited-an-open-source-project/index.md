@@ -10,6 +10,8 @@ On Monday the 6th February of 2023, I woke up to find a surprising email in my i
 
 ![An email with the subject RE: Chord Generator](mail_inbox.webp)
 
+{{< toc >}}
+
 ## What is a Chord Generator?!
 
 Let's go back a little in history...

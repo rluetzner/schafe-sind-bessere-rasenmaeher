@@ -13,6 +13,8 @@ As I'm not familiar with administrating a Mastodon instance, I offered to help i
 
 You can find the working script [here](https://codeberg.org/RollenspielMonster/rollenspiel.social/src/branch/master/simple-toot).
 
+{{< toc >}}
+
 ## Starting out, i.e. registering a new client application
 
 I asked my good friend [Startpage](https://startpage.com) for advice and promptly crashlanded on the Mastondon API documentation. If I were a more determined person I might have stayed there (and saved myself a bit of trouble), but I'm lazy. So I went looking further and found [this article from leancrew.com](https://leancrew.com/all-this/2018/08/autotooting-with-mastodon/).

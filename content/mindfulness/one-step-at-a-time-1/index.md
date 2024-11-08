@@ -18,6 +18,8 @@ There are however a few problems with this approach.
 
 The most obvious one being, that I haven't defined any goals I want to reach.
 
+{{< toc >}}
+
 ## No goals?
 
 So far, I've mainly followed the advice **focus on the present moment** and observed a bunch of positive changes that come with my interpretation of that.

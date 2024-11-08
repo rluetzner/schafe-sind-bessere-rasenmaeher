@@ -8,6 +8,8 @@ tags: ["horror", "violence"]
 
 I had trouble getting to sleep last night and my mind kept returning to games that I'd call _classic_. I was born in 1987, so my definition will most likely differ from yours. Also, after finishing this list I realized that my brain got stuck on violent games. There's a bunch of classic games left that I'm not going to talk about here.
 
+{{< toc >}}
+
 ## Resident Evil 2 (1998)
 
 With the release of Resident Evil 2 Remake, I can't help but enforce the **1998** whenever I mention this game. I really enjoyed the remake, but it will never take the place of the original game (other than Resident Evil Remake, which you'll find further down).

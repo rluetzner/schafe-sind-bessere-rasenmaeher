@@ -11,6 +11,8 @@ I love WSL. I mainly develop for Linux systems at work, but for company reasons 
 
 A few days ago however, I managed to almost destroy my WSL instance. It took me a while to figure out what exactly happened, but here it goes.
 
+{{< toc >}}
+
 ## The prose story
 
 As the new year started, I took some time to clean up my system. I noticed that my drive was running pretty low on space and ran **TreeSize** to analyze which files were the cause. I found an old development VM that used up more than 100GB, which I finally deleted after not booting it up for more than two years.

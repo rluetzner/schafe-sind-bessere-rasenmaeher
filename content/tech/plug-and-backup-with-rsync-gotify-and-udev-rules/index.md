@@ -11,6 +11,8 @@ This is gonna be a step-by-step reconstruction of how my backup script evolved o
 
 If you're just interested in the top-level steps, you can take a look at the section headings.
 
+{{< toc >}}
+
 ## Starting out with rsync
 
 I'm a big fan of [Restic](https://restic.net) for backups. It's one of the first tools I install on a new system.

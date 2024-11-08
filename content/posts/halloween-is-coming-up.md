@@ -12,6 +12,8 @@ tags:
 license: cc-by-nc-sa
 ---
 
+{{< toc >}}
+
 ## Preamble
 
 Every few years when halloween approaches I get the urge to (re)watch a whole bunch of scary movies. I'm not really picky so anything goes: slashers, elevated horror, ghost flicks, cosmic horror, ...
