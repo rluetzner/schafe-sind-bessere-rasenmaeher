@@ -1,0 +1,16 @@
+{{ $mastodonLink := .Params.mastodonlink | default .Site.Params.Mastodon }}
+{{ $mailSubject := printf "Post \"%s\"" .Params.Title }}
+<hr/>
+<p>
+  Did you like what you read? Let me hear your thoughts.
+</p>
+<p>
+  <ul>
+    <li>
+      <a href="mailto:robert@luetzners.de?subject={{ safe.URL $mailSubject }}">Send me an email</a>
+    </li>
+    <li>
+      <a href="{{ $mastodonLink }}">Reply on the Fediverse</a>
+    </li>
+  </ul>
+</p>
